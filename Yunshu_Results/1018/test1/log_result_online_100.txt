@@ -1,0 +1,34 @@
+absolute_translational_error.rmse 0.013748 m
+absolute_translational_error.rmse 0.014884 m
+absolute_translational_error.rmse 0.039124 m
+absolute_translational_error.rmse 0.058603 m
+absolute_translational_error.rmse 0.017817 m
+absolute_translational_error.rmse 0.037321 m
+absolute_translational_error.rmse 0.023709 m
+absolute_translational_error.rmse 0.050089 m
+absolute_translational_error.rmse 0.070876 m
+absolute_translational_error.rmse 0.070001 m
+absolute_translational_error.rmse 0.065174 m
+absolute_translational_error.rmse 0.079382 m
+absolute_translational_error.rmse 0.061275 m
+absolute_translational_error.rmse 0.063919 m
+absolute_translational_error.rmse 0.053923 m
+absolute_translational_error.rmse 0.120697 m
+
+
+absolute_translational_error.rmse 0.013467 m
+absolute_translational_error.rmse 0.051262 m
+absolute_translational_error.rmse 0.041380 m
+absolute_translational_error.rmse 0.053616 m
+absolute_translational_error.rmse 0.028517 m
+absolute_translational_error.rmse 0.053135 m
+absolute_translational_error.rmse 0.035481 m
+absolute_translational_error.rmse 0.034204 m
+absolute_translational_error.rmse 0.202004 m
+absolute_translational_error.rmse 0.067029 m
+absolute_translational_error.rmse 0.064125 m
+absolute_translational_error.rmse 0.054411 m
+absolute_translational_error.rmse 0.085987 m
+absolute_translational_error.rmse 0.065355 m
+absolute_translational_error.rmse 0.069055 m
+absolute_translational_error.rmse 0.074173 m

@@ -1,0 +1,299 @@
+keyframe number: 208
+keyframe number: 205
+keyframe number: 197
+keyframe number: 205
+keyframe number: 203
+keyframe number: 226
+keyframe number: 204
+keyframe number: 229
+keyframe number: 198
+keyframe number: 194
+keyframe number: 208
+keyframe number: 200
+keyframe number: 223
+keyframe number: 196
+keyframe number: 257
+keyframe number: 203
+keyframe number: 210
+keyframe number: 200
+keyframe number: 207
+keyframe number: 199
+keyframe number: 204
+keyframe number: 232
+keyframe number: 205
+keyframe number: 203
+keyframe number: 199
+keyframe number: 205
+keyframe number: 209
+keyframe number: 208
+keyframe number: 220
+keyframe number: 200
+keyframe number: 205
+keyframe number: 201
+keyframe number: 206
+keyframe number: 205
+keyframe number: 208
+keyframe number: 199
+keyframe number: 238
+keyframe number: 209
+keyframe number: 202
+keyframe number: 223
+keyframe number: 204
+keyframe number: 209
+keyframe number: 202
+keyframe number: 212
+keyframe number: 236
+keyframe number: 210
+keyframe number: 205
+keyframe number: 197
+keyframe number: 203
+keyframe number: 207
+keyframe number: 225
+keyframe number: 197
+keyframe number: 215
+keyframe number: 202
+keyframe number: 201
+keyframe number: 208
+keyframe number: 208
+keyframe number: 206
+keyframe number: 206
+keyframe number: 205
+keyframe number: 202
+keyframe number: 206
+keyframe number: 203
+keyframe number: 220
+keyframe number: 200
+keyframe number: 205
+keyframe number: 224
+keyframe number: 230
+keyframe number: 224
+keyframe number: 202
+keyframe number: 195
+keyframe number: 206
+keyframe number: 205
+keyframe number: 205
+keyframe number: 210
+keyframe number: 208
+keyframe number: 205
+keyframe number: 204
+keyframe number: 217
+keyframe number: 200
+keyframe number: 209
+keyframe number: 231
+keyframe number: 199
+keyframe number: 224
+keyframe number: 202
+keyframe number: 206
+keyframe number: 226
+keyframe number: 202
+keyframe number: 219
+keyframe number: 207
+keyframe number: 209
+keyframe number: 204
+keyframe number: 217
+keyframe number: 209
+keyframe number: 208
+keyframe number: 189
+keyframe number: 184
+keyframe number: 192
+keyframe number: 200
+shellCommands_000.osa size is: 37381920
+
+shellCommands_001.osa size is: 36811515
+
+shellCommands_002.osa size is: 35554716
+
+shellCommands_003.osa size is: 36913467
+
+shellCommands_004.osa size is: 36561483
+
+shellCommands_005.osa size is: 40841062
+
+shellCommands_006.osa size is: 36699502
+
+shellCommands_007.osa size is: 41404799
+
+shellCommands_008.osa size is: 35708080
+
+shellCommands_009.osa size is: 35015569
+
+shellCommands_010.osa size is: 37493897
+
+shellCommands_011.osa size is: 35989244
+
+shellCommands_012.osa size is: 41439486
+
+shellCommands_013.osa size is: 35452759
+
+shellCommands_014.osa size is: 46805879
+
+shellCommands_015.osa size is: 36691717
+
+shellCommands_016.osa size is: 37893156
+
+shellCommands_017.osa size is: 35996755
+
+shellCommands_018.osa size is: 37255370
+
+shellCommands_019.osa size is: 35905718
+
+shellCommands_020.osa size is: 36755430
+
+shellCommands_021.osa size is: 41733342
+
+shellCommands_022.osa size is: 36933773
+
+shellCommands_023.osa size is: 36550408
+
+shellCommands_024.osa size is: 35882546
+
+shellCommands_025.osa size is: 36970879
+
+shellCommands_026.osa size is: 37661238
+
+shellCommands_027.osa size is: 37487887
+
+shellCommands_028.osa size is: 39813603
+
+shellCommands_029.osa size is: 36007116
+
+shellCommands_030.osa size is: 39741288
+
+shellCommands_031.osa size is: 36214874
+
+shellCommands_032.osa size is: 37073423
+
+shellCommands_033.osa size is: 37008426
+
+shellCommands_034.osa size is: 37508931
+
+shellCommands_035.osa size is: 35963140
+
+shellCommands_036.osa size is: 42960193
+
+shellCommands_037.osa size is: 37722188
+
+shellCommands_038.osa size is: 36345900
+
+shellCommands_039.osa size is: 40274807
+
+shellCommands_040.osa size is: 36690526
+
+shellCommands_041.osa size is: 37580651
+
+shellCommands_042.osa size is: 36393024
+
+shellCommands_043.osa size is: 38168916
+
+shellCommands_044.osa size is: 42790304
+
+shellCommands_045.osa size is: 37919101
+
+shellCommands_046.osa size is: 37001413
+
+shellCommands_047.osa size is: 35529579
+
+shellCommands_048.osa size is: 36834964
+
+shellCommands_049.osa size is: 37320430
+
+shellCommands_050.osa size is: 40513777
+
+shellCommands_051.osa size is: 35560890
+
+shellCommands_052.osa size is: 38837226
+
+shellCommands_053.osa size is: 36461170
+
+shellCommands_054.osa size is: 36285327
+
+shellCommands_055.osa size is: 37404666
+
+shellCommands_056.osa size is: 37546994
+
+shellCommands_057.osa size is: 37044151
+
+shellCommands_058.osa size is: 37123935
+
+shellCommands_059.osa size is: 36984278
+
+shellCommands_060.osa size is: 36433880
+
+shellCommands_061.osa size is: 37196715
+
+shellCommands_062.osa size is: 36578834
+
+shellCommands_063.osa size is: 39838040
+
+shellCommands_064.osa size is: 38701787
+
+shellCommands_065.osa size is: 37034498
+
+shellCommands_066.osa size is: 40256913
+
+shellCommands_067.osa size is: 41716786
+
+shellCommands_068.osa size is: 40450468
+
+shellCommands_069.osa size is: 36391511
+
+shellCommands_070.osa size is: 37772375
+
+shellCommands_071.osa size is: 37070218
+
+shellCommands_072.osa size is: 37027531
+
+shellCommands_073.osa size is: 36911799
+
+shellCommands_074.osa size is: 37913802
+
+shellCommands_075.osa size is: 37497771
+
+shellCommands_076.osa size is: 37070508
+
+shellCommands_077.osa size is: 36792170
+
+shellCommands_078.osa size is: 39054155
+
+shellCommands_079.osa size is: 36064178
+
+shellCommands_080.osa size is: 37610228
+
+shellCommands_081.osa size is: 41782242
+
+shellCommands_082.osa size is: 38324278
+
+shellCommands_083.osa size is: 40332161
+
+shellCommands_084.osa size is: 36399285
+
+shellCommands_085.osa size is: 37098246
+
+shellCommands_086.osa size is: 40765752
+
+shellCommands_087.osa size is: 36390720
+
+shellCommands_088.osa size is: 42231882
+
+shellCommands_089.osa size is: 37323477
+
+shellCommands_090.osa size is: 37635627
+
+shellCommands_091.osa size is: 36807085
+
+shellCommands_092.osa size is: 39343262
+
+shellCommands_093.osa size is: 37686735
+
+shellCommands_094.osa size is: 37472915
+
+shellCommands_095.osa size is: 33962892
+
+shellCommands_096.osa size is: 33046324
+
+shellCommands_097.osa size is: 34599286
+
+shellCommands_098.osa size is: 37015845
+
+shellCommands_099.osa size is: 50035954
+

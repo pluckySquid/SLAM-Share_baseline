@@ -1,0 +1,115 @@
+GNU gdb (Ubuntu 8.2-0ubuntu1~16.04.1) 8.2
+Copyright (C) 2018 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from ./Examples/Monocular/mono_euroc_load_2-load1Do2...(no debugging symbols found)...done.
+(gdb) r
+Starting program: /home/ucrnet/Desktop/workspace/ORBSLAM3/Examples/Monocular/mono_euroc_load_2-load1Do2 ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml /home/ucrnet/Desktop/workspace/slamdata/MH05 ./Examples/Monocular/EuRoC_TimeStamps/MH05.txt dataset-MH_testMerge_1129 ./MH04half-05fullwrongmerge.osa
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+num_seq = 2
+Loading images for sequence 0...LOADED!
+
+-------
+
+ORB-SLAM3 Copyright (C) 2017-2020 Carlos Campos, Richard Elvira, Juan J. Gómez, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+ORB-SLAM2 Copyright (C) 2014-2016 Raúl Mur-Artal, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions. See LICENSE.txt.
+
+Input sensor was set to: Monocular
+In if else strLoadingFile.empty()
+
+Loading ORB Vocabulary. This could take a while...
+Vocabulary loaded!
+
+Starting to read the save binary file
+loadAtlas, filename: ./MH04half-05fullwrongmerge.osa
+after null construction 
+Atlas save OK1
+Map OK1 GetKeyFrameSize() map size is: 0
+Map load 1 0
+Map load 2 0
+Map load 3 0
+Map load 4 276
+Map load 5 276
+Map load 6 276
+Map load 7 276
+Map load 8 276
+Map load 9 276
+Map OK2
+Atlas save OK2, mvpBackupMaps size: 1
+mvpCameras size: 0
+mvpCameras size is zero
+we are close to find the error atlas.h 1
+GeometricCamera OK1
+GeometricCamera OK4
+we are close to find the error atlas.h 1 
+Atlas save OK3
+-----------------is loading;---------------
+Yunshu -- atlas is loading 1
+Yunshu -- atlas is loading 2
+Yunshu -- atlas is loading for loop
+loading mvpCameras size: 2
+elapsed time in creating .bin file: 276
+now fix keyframe database
+ keyframedatabse check 1
+ keyframedatabse check 2
+End to load the save binary file
+atlas is done loading. need postload
+Map id:1
+Number of KF: 276
+Number of MP: 8665
+MP without KF reference 18446744073709551615; Num obs: 3
+MP without KF reference 18446744073709551615; Num obs: 4
+MP without KF reference 18446744073709551615; Num obs: 4
+MP without KF reference 18446744073709551615; Num obs: 4
+MP without KF reference 18446744073709551615; Num obs: 5
+MP without KF reference 18446744073709551615; Num obs: 9
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+End to rebuild MapPoint references first
+ mspKeyFrames.size()276
+in for loo pKeyFrame* pKFi
+This is a good pKFi
+  *****KeyFrameDatabase add  *******
+
+Program received signal SIGSEGV, Segmentation fault.
+0x00007ffff60a6200 in std::__detail::_List_node_base::_M_hook(std::__detail::_List_node_base*) () from /usr/lib/x86_64-linux-gnu/libstdc++.so.6
+(gdb) q
+A debugging session is active.
+
+	Inferior 1 [process 29600] will be killed.
+
+Quit anyway? (y or n) y

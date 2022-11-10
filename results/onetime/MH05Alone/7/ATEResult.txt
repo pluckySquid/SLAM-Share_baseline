@@ -1,0 +1,28 @@
+kf_smallmap150.txt
+absolute_translational_error.rmse 0.010260 m     last_n = 14      last 10 absolute_translational_error.rmse 0.010260 m
+kf_smallmap300.txt
+absolute_translational_error.rmse 0.015667 m     last_n = 13      last 10 absolute_translational_error.rmse 0.016155 m
+kf_smallmap450.txt
+absolute_translational_error.rmse 0.015968 m     last_n = 4      last 10 absolute_translational_error.rmse 0.023127 m
+kf_smallmap600.txt
+absolute_translational_error.rmse 0.018004 m     last_n = 15      last 10 absolute_translational_error.rmse 0.016907 m
+kf_smallmap750.txt
+absolute_translational_error.rmse 0.032164 m     last_n = 12      last 10 absolute_translational_error.rmse 0.040829 m
+kf_smallmap900.txt
+absolute_translational_error.rmse 0.033907 m     last_n = 18      last 10 absolute_translational_error.rmse 0.031229 m
+kf_smallmap1050.txt
+absolute_translational_error.rmse 0.065326 m     last_n = 19      last 10 absolute_translational_error.rmse 0.112105 m
+kf_smallmap1200.txt
+absolute_translational_error.rmse 0.088332 m     last_n = 17      last 10 absolute_translational_error.rmse 0.140623 m
+kf_smallmap1350.txt
+absolute_translational_error.rmse 0.139599 m     last_n = 10      last 10 absolute_translational_error.rmse 0.367742 m
+kf_smallmap1500.txt
+absolute_translational_error.rmse 0.608405 m     last_n = 11      last 10 absolute_translational_error.rmse 2.103858 m
+kf_smallmap1650.txt
+absolute_translational_error.rmse 1.450208 m     last_n = 16      last 10 absolute_translational_error.rmse 4.080076 m
+kf_smallmap1800.txt
+absolute_translational_error.rmse 0.650195 m     last_n = 8      last 10 absolute_translational_error.rmse 0.098863 m
+kf_smallmap1950.txt
+absolute_translational_error.rmse 0.635232 m     last_n = 7      last 10 absolute_translational_error.rmse 0.077015 m
+kf_smallmap2100.txt
+absolute_translational_error.rmse 0.598183 m     last_n = 6      last 10 absolute_translational_error.rmse 0.422737 m

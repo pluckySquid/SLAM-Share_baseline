@@ -1,0 +1,30 @@
+kf_smallmap150.txt
+absolute_translational_error.rmse 0.013215 m     last_n = 14      last 10 absolute_translational_error.rmse 0.013215 m
+kf_smallmap300.txt
+absolute_translational_error.rmse 0.016184 m     last_n = 4      last 10 absolute_translational_error.rmse 0.014268 m
+kf_smallmap450.txt
+absolute_translational_error.rmse 0.013560 m     last_n = 1      last 10 absolute_translational_error.rmse 0.008794 m
+kf_smallmap600.txt
+absolute_translational_error.rmse 0.016392 m     last_n = 3      last 10 absolute_translational_error.rmse 0.009550 m
+kf_smallmap750.txt
+absolute_translational_error.rmse 0.073157 m     last_n = 6      last 10 absolute_translational_error.rmse 0.083732 m
+kf_smallmap900.txt
+absolute_translational_error.rmse 0.092074 m     last_n = 9      last 10 absolute_translational_error.rmse 0.065911 m
+kf_smallmap1050.txt
+absolute_translational_error.rmse 0.084927 m     last_n = 9      last 10 absolute_translational_error.rmse 0.059762 m
+kf_smallmap1200.txt
+absolute_translational_error.rmse 0.088106 m     last_n = 8      last 10 absolute_translational_error.rmse 0.071968 m
+kf_smallmap1350.txt
+absolute_translational_error.rmse 0.090051 m     last_n = 5      last 10 absolute_translational_error.rmse 0.073114 m
+kf_smallmap1500.txt
+absolute_translational_error.rmse 0.115061 m     last_n = 6      last 10 absolute_translational_error.rmse 0.218886 m
+kf_smallmap1650.txt
+absolute_translational_error.rmse 0.155191 m     last_n = 8      last 10 absolute_translational_error.rmse 0.303087 m
+kf_smallmap1800.txt
+absolute_translational_error.rmse 0.207405 m     last_n = 8      last 10 absolute_translational_error.rmse 0.335444 m
+kf_smallmap1950.txt
+absolute_translational_error.rmse 0.201463 m     last_n = 6      last 10 absolute_translational_error.rmse 0.109462 m
+kf_smallmap2100.txt
+absolute_translational_error.rmse 0.199305 m     last_n = 5      last 10 absolute_translational_error.rmse 0.122273 m
+kf_smallmap2250.txt
+absolute_translational_error.rmse 0.200461 m     last_n = 3      last 10 absolute_translational_error.rmse 0.132595 m

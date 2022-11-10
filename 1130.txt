@@ -1,0 +1,68 @@
+num_seq = 2
+file name: dataset-MH0405_0909
+Loading images for sequence 0...LOADED!
+Loading images for sequence 1...LOADED!
+
+-------
+
+ORB-SLAM3 Copyright (C) 2017-2020 Carlos Campos, Richard Elvira, Juan J. Gómez, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+ORB-SLAM2 Copyright (C) 2014-2016 Raúl Mur-Artal, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions. See LICENSE.txt.
+
+Input sensor was set to: Monocular
+
+Loading ORB Vocabulary. This could take a while...
+Vocabulary loaded!
+
+In if else strLoadingFile.empty()
+Starting to read the save binary file
+loadAtlas, filename: ./MH01_mono_0630.osa
+Atlas save OK1
+Map OK1 GetKeyFrameSize() map size is: 0
+Map OK2
+Atlas save OK2, mvpBackupMaps size: 1
+mvpCameras size: 0
+mvpCameras size is zero
+Atlas save OK3
+-----------------is loading;---------------
+loading mvpCameras size: 1
+elapsed time in creating .bin file: 291
+End to load the save binary file
+Map id:0
+Number of KF: 265
+Number of MP: 9305
+MP without KF reference 18446744073709551615; Num obs: 5
+MP without KF reference 18446744073709551615; Num obs: 3
+MP without KF reference 18446744073709551615; Num obs: 15
+MP without KF reference 18446744073709551615; Num obs: 7
+MP without KF reference 18446744073709551615; Num obs: 5
+MP without KF reference 18446744073709551615; Num obs: 3
+MP without KF reference 18446744073709551615; Num obs: 13
+MP without KF reference 18446744073709551615; Num obs: 3
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+MP without KF reference 18446744073709551615; Num obs: 2
+End to rebuild MapPoint references
+Map::PostLoad mpKFlowerID = pKFi;
+Map::PostLoad mpKFinitial = pKFi;
+End to rebuild KeyFrame references
+Number KF:265; number MP:9305
+Creation of new map with id: 2
+Creation of new map with last KF id: 339
+elapsed time in loading .bin file: 1638233845262
+first load atlas map size: 2
+------press enter to continue------

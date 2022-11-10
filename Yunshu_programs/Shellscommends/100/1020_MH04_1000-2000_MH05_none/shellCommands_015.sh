@@ -1,0 +1,5 @@
+#!/bin/bash
+pathDatasetEuroc='/home/ucrnet/Desktop/workspace/slamdata' #Example, it is necesary to change it by the dataset path
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+shellCommands_015 | ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml "$pathDatasetEuroc"/MH04 ./Yunshu_Results/1020_MH04_1000-2000_MH05_none/deletedResults2/MH04_15_100.txt dataset-MH04-1020_MH04_1000-2000_MH05_none_15
+python2 evaluation/evaluate_ate_scale_color_final_markBoth_Online.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_dataset-MH04-1020_MH04_1000-2000_MH05_none_15.txt --plot kf_dateset-MH04-100_15.pdf 5 Yunshu_Results/1020_MH04_1000-2000_MH05_none/deletedResults2/missingFramesFile_MH04.txt -1 Yunshu_Results/1020_MH04_1000-2000_MH05_none/deletedResults2/missingFramesFile_MH05.txt

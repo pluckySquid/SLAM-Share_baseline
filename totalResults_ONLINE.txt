@@ -1,0 +1,3 @@
+<open file '/home/ucrnet/Desktop/workspace/ORBSLAM3/log_result_online_100.txt', mode 'r' at 0x7f64abb0e1e0>:
+	0.0450107
+

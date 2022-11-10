@@ -1,0 +1,320 @@
+f_dataset-MH04-1030_MH04_0-2000_0.txt:
+	55
+	14
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_0.txt is: 0.254545454545
+
+f_dataset-MH04-1030_MH04_0-2000_1.txt:
+	160
+	22
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_1.txt is: 0.1375
+
+f_dataset-MH04-1030_MH04_0-2000_10.txt:
+	1040
+	115
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_10.txt is: 0.110576923077
+
+f_dataset-MH04-1030_MH04_0-2000_11.txt:
+	1150
+	135
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_11.txt is: 0.117391304348
+
+f_dataset-MH04-1030_MH04_0-2000_12.txt:
+	1246
+	151
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_12.txt is: 0.121187800963
+
+f_dataset-MH04-1030_MH04_0-2000_13.txt:
+	1360
+	158
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_13.txt is: 0.116176470588
+
+f_dataset-MH04-1030_MH04_0-2000_14.txt:
+	1449
+	175
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_14.txt is: 0.12077294686
+
+f_dataset-MH04-1030_MH04_0-2000_15.txt:
+	1552
+	177
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_15.txt is: 0.114046391753
+
+f_dataset-MH04-1030_MH04_0-2000_16.txt:
+	1653
+	182
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_16.txt is: 0.110102843315
+
+f_dataset-MH04-1030_MH04_0-2000_17.txt:
+	1752
+	179
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_17.txt is: 0.102168949772
+
+f_dataset-MH04-1030_MH04_0-2000_18.txt:
+	1841
+	181
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_18.txt is: 0.0983161325367
+
+f_dataset-MH04-1030_MH04_0-2000_19.txt:
+	1946
+	198
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_19.txt is: 0.10174717369
+
+f_dataset-MH04-1030_MH04_0-2000_2.txt:
+	259
+	21
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_2.txt is: 0.0810810810811
+
+f_dataset-MH04-1030_MH04_0-2000_3.txt:
+	361
+	26
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_3.txt is: 0.0720221606648
+
+f_dataset-MH04-1030_MH04_0-2000_4.txt:
+	445
+	27
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_4.txt is: 0.0606741573034
+
+f_dataset-MH04-1030_MH04_0-2000_5.txt:
+	552
+	43
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_5.txt is: 0.0778985507246
+
+f_dataset-MH04-1030_MH04_0-2000_6.txt:
+	647
+	58
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_6.txt is: 0.0896445131376
+
+f_dataset-MH04-1030_MH04_0-2000_7.txt:
+	760
+	71
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_7.txt is: 0.0934210526316
+
+f_dataset-MH04-1030_MH04_0-2000_8.txt:
+	847
+	88
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_8.txt is: 0.103896103896
+
+f_dataset-MH04-1030_MH04_0-2000_9.txt:
+	939
+	106
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_9.txt is: 0.112886048988
+
+f_dataset-MH04-1030_MH04_0-2000_0.txt:
+	55
+	14
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_0.txt is: 0.254545454545
+
+f_dataset-MH04-1030_MH04_0-2000_1.txt:
+	160
+	22
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_1.txt is: 0.1375
+
+f_dataset-MH04-1030_MH04_0-2000_10.txt:
+	1040
+	115
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_10.txt is: 0.110576923077
+
+f_dataset-MH04-1030_MH04_0-2000_11.txt:
+	1150
+	135
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_11.txt is: 0.117391304348
+
+f_dataset-MH04-1030_MH04_0-2000_12.txt:
+	1246
+	151
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_12.txt is: 0.121187800963
+
+f_dataset-MH04-1030_MH04_0-2000_13.txt:
+	1360
+	158
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_13.txt is: 0.116176470588
+
+f_dataset-MH04-1030_MH04_0-2000_14.txt:
+	1449
+	175
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_14.txt is: 0.12077294686
+
+f_dataset-MH04-1030_MH04_0-2000_15.txt:
+	1552
+	177
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_15.txt is: 0.114046391753
+
+f_dataset-MH04-1030_MH04_0-2000_16.txt:
+	1653
+	182
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_16.txt is: 0.110102843315
+
+f_dataset-MH04-1030_MH04_0-2000_17.txt:
+	1752
+	179
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_17.txt is: 0.102168949772
+
+f_dataset-MH04-1030_MH04_0-2000_18.txt:
+	1841
+	181
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_18.txt is: 0.0983161325367
+
+f_dataset-MH04-1030_MH04_0-2000_19.txt:
+	1946
+	198
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_19.txt is: 0.10174717369
+
+f_dataset-MH04-1030_MH04_0-2000_2.txt:
+	259
+	21
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_2.txt is: 0.0810810810811
+
+f_dataset-MH04-1030_MH04_0-2000_3.txt:
+	361
+	26
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_3.txt is: 0.0720221606648
+
+f_dataset-MH04-1030_MH04_0-2000_4.txt:
+	445
+	27
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_4.txt is: 0.0606741573034
+
+f_dataset-MH04-1030_MH04_0-2000_5.txt:
+	552
+	43
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_5.txt is: 0.0778985507246
+
+f_dataset-MH04-1030_MH04_0-2000_6.txt:
+	647
+	58
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_6.txt is: 0.0896445131376
+
+f_dataset-MH04-1030_MH04_0-2000_7.txt:
+	760
+	71
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_7.txt is: 0.0934210526316
+
+f_dataset-MH04-1030_MH04_0-2000_8.txt:
+	847
+	88
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_8.txt is: 0.103896103896
+
+f_dataset-MH04-1030_MH04_0-2000_9.txt:
+	939
+	106
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_9.txt is: 0.112886048988
+
+f_dataset-MH04-1030_MH04_0-2000_0.txt:
+	total images are: 0
+	total frames are: 55
+	total key frames are: 14
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_0.txt is: 0.254545454545
+
+f_dataset-MH04-1030_MH04_0-2000_1.txt:
+	total images are: 0
+	total frames are: 160
+	total key frames are: 22
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_1.txt is: 0.1375
+
+f_dataset-MH04-1030_MH04_0-2000_10.txt:
+	total images are: 0
+	total frames are: 1040
+	total key frames are: 115
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_10.txt is: 0.110576923077
+
+f_dataset-MH04-1030_MH04_0-2000_11.txt:
+	total images are: 0
+	total frames are: 1150
+	total key frames are: 135
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_11.txt is: 0.117391304348
+
+f_dataset-MH04-1030_MH04_0-2000_12.txt:
+	total images are: 0
+	total frames are: 1246
+	total key frames are: 151
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_12.txt is: 0.121187800963
+
+f_dataset-MH04-1030_MH04_0-2000_13.txt:
+	total images are: 0
+	total frames are: 1360
+	total key frames are: 158
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_13.txt is: 0.116176470588
+
+f_dataset-MH04-1030_MH04_0-2000_14.txt:
+	total images are: 0
+	total frames are: 1449
+	total key frames are: 175
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_14.txt is: 0.12077294686
+
+f_dataset-MH04-1030_MH04_0-2000_15.txt:
+	total images are: 0
+	total frames are: 1552
+	total key frames are: 177
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_15.txt is: 0.114046391753
+
+f_dataset-MH04-1030_MH04_0-2000_16.txt:
+	total images are: 0
+	total frames are: 1653
+	total key frames are: 182
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_16.txt is: 0.110102843315
+
+f_dataset-MH04-1030_MH04_0-2000_17.txt:
+	total images are: 0
+	total frames are: 1752
+	total key frames are: 179
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_17.txt is: 0.102168949772
+
+f_dataset-MH04-1030_MH04_0-2000_18.txt:
+	total images are: 0
+	total frames are: 1841
+	total key frames are: 181
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_18.txt is: 0.0983161325367
+
+f_dataset-MH04-1030_MH04_0-2000_19.txt:
+	total images are: 0
+	total frames are: 1946
+	total key frames are: 198
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_19.txt is: 0.10174717369
+
+f_dataset-MH04-1030_MH04_0-2000_2.txt:
+	total images are: 0
+	total frames are: 259
+	total key frames are: 21
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_2.txt is: 0.0810810810811
+
+f_dataset-MH04-1030_MH04_0-2000_3.txt:
+	total images are: 0
+	total frames are: 361
+	total key frames are: 26
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_3.txt is: 0.0720221606648
+
+f_dataset-MH04-1030_MH04_0-2000_4.txt:
+	total images are: 0
+	total frames are: 445
+	total key frames are: 27
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_4.txt is: 0.0606741573034
+
+f_dataset-MH04-1030_MH04_0-2000_5.txt:
+	total images are: 0
+	total frames are: 552
+	total key frames are: 43
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_5.txt is: 0.0778985507246
+
+f_dataset-MH04-1030_MH04_0-2000_6.txt:
+	total images are: 0
+	total frames are: 647
+	total key frames are: 58
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_6.txt is: 0.0896445131376
+
+f_dataset-MH04-1030_MH04_0-2000_7.txt:
+	total images are: 0
+	total frames are: 760
+	total key frames are: 71
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_7.txt is: 0.0934210526316
+
+f_dataset-MH04-1030_MH04_0-2000_8.txt:
+	total images are: 0
+	total frames are: 847
+	total key frames are: 88
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_8.txt is: 0.103896103896
+
+f_dataset-MH04-1030_MH04_0-2000_9.txt:
+	total images are: 0
+	total frames are: 939
+	total key frames are: 106
+keyframeRate of f_dataset-MH04-1030_MH04_0-2000_9.txt is: 0.112886048988
+

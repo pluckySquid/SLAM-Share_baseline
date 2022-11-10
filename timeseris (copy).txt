@@ -1,0 +1,264 @@
+Before saving atlas: presaveStart0: 1647972582841751
+
+client start sending time at: 1647972583195161
+file complete
+server finish receiving time at: 1647972583195691
+
+server start sending time at: 1647972586196200
+server received time at: 1647972586196455
+client received time at: 1647972586
+Before Loading atlas: start0: 1647972586289106
+After Loading atlas serialization: end0: 1647972586487101
+Before saving atlas: presaveStart0: 1647972618133677
+
+
+
+client start sending time at: 1647972618451505
+file complete
+server finish receiving time at: 1647972618471508
+
+server start sending time at: 1647972621471678
+server received time at: 1647972621471909
+client received time at: 1647972621
+Before Loading atlas: start0: 1647972621657500
+After Loading atlas serialization: end0: 1647972621937141
+Before saving atlas: presaveStart0: 1647972653959762
+
+
+
+
+
+client start sending time at: 1647972654353602
+file complete
+server finish receiving time at: 1647972654367341
+
+server start sending time at: 1647972657367531
+server received time at: 1647972657367759
+client received time at: 1647972657
+Before Loading atlas: start0: 1647972657502578
+After Loading atlas serialization: end0: 1647972657893419
+Before saving atlas: presaveStart0: 1647972696295432
+
+
+
+
+client start sending time at: 1647972696900220
+file complete
+server finish receiving time at: 1647972696900723
+
+server start sending time at: 1647972699900901
+server received time at: 1647972699901110
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Before saving atlas: presaveStart0: 1647973137602581
+client start sending time at: 1647973137998797
+file complete
+server finish receiving time at: 1647973138020419
+
+server start sending time at: 1647973141020896
+server finish sending time at: 1647973141021210
+client received time at: 1647973141026285
+Before Loading atlas: start0: 1647973141105780
+After Loading atlas serialization: end0: 1647973141390769
+Before saving atlas: presaveStart0: 1647973178328134
+
+
+
+
+client start sending time at: 1647973178921507
+file complete
+server finish receiving time at: 1647973178922030
+
+server start sending time at: 1647973181923113
+server finish sending time at: 1647973181923516
+client received time at: 1647973181930117
+Before Loading atlas: start0: 1647973182256180
+After Loading atlas serialization: end0: 1647973182632721
+Before saving atlas: presaveStart0: 1647973222454443
+
+
+
+
+client start sending time at: 1647973222845705
+file complete
+server finish receiving time at: 1647973222858172
+
+server start sending time at: 1647973225858559
+server finish sending time at: 1647973225858798
+client received time at: 1647973225872506
+Before Loading atlas: start0: 1647973226070656
+After Loading atlas serialization: end0: 1647973226385405
+Before saving atlas: presaveStart0: 1647973266302429
+
+
+
+
+client start sending time at: 1647973266623827
+file complete
+server finish receiving time at: 1647973266624388
+
+server start sending time at: 1647973269624595
+server finish sending time at: 1647973269624857
+Before saving atlas: presaveStart0: 1647973883616804
+client start sending time at: 1647973883780057
+Before saving atlas: presaveStart0: 1647974164869275
+client start sending time at: 1647974165041552
+Before saving atlas: presaveStart0: 1647974664146876
+client start sending time at: 1647974664342913
+Before saving atlas: presaveStart0: 1647974759121193
+client start sending time at: 1647974759279894
+Before saving atlas: presaveStart0: 1647974805218055
+client start sending time at: 1647974805392357
+
+
+
+
+
+
+
+Before saving atlas: presaveStart0: 1647974833300622
+client start sending time at: 1647974833554182
+Before saving atlas: presaveStart0: 1647974861035311
+client start sending time at: 1647974861374579
+Before saving atlas: presaveStart0: 1647974892284093
+client start sending time at: 1647974892654080
+
+
+
+
+
+
+
+
+
+Before saving atlas: presaveStart0: 1647976748255430
+client start sending time at: 1647976748413960
+Before saving atlas: presaveStart0: 1647976776398836
+client start sending time at: 1647976776726105
+Before saving atlas: presaveStart0: 1647976803802225
+client start sending time at: 1647976804133570
+Before saving atlas: presaveStart0: 1647976907713875
+client start sending time at: 1647976907869886
+Before saving atlas: presaveStart0: 1647977234637456
+client start sending time at: 1647977234855682
+Before saving atlas: presaveStart0: 1647977262467660
+client start sending time at: 1647977262725261
+Before saving atlas: presaveStart0: 1647977289941200
+client start sending time at: 1647977290298065
+Before saving atlas: presaveStart0: 1647977325891979
+client start sending time at: 1647977326313351
+Before saving atlas: presaveStart0: 1647977549634513
+client start sending time at: 1647977549907745
+file complete
+server finish receiving time at: 1647977549923685
+
+server start sending time at: 1647977552924020
+server finish sending time at: 1647977552924739
+client received time at: 1647977552934245
+Before Loading atlas: start0: 1647977553044813
+After Loading atlas serialization: end0: 1647977553233544
+Before saving atlas: presaveStart0: 1647977589615806
+client start sending time at: 1647977590001363
+file complete
+server finish receiving time at: 1647977590062404
+
+server start sending time at: 1647977593062806
+server finish sending time at: 1647977593063419
+client received time at: 1647977593086358
+Before Loading atlas: start0: 1647977593513662
+After Loading atlas serialization: end0: 1647977593686083
+Before saving atlas: presaveStart0: 1647977631536363
+client start sending time at: 1647977631953845
+file complete
+server finish receiving time at: 1647977631954772
+
+server start sending time at: 1647977634954926
+server finish sending time at: 1647977634955217
+client received time at: 1647977634955386
+Before Loading atlas: start0: 1647977635083030
+After Loading atlas serialization: end0: 1647977635280950
+Before saving atlas: presaveStart0: 1647977673400692
+client start sending time at: 1647977673838026
+file complete
+server finish receiving time at: 1647977673838824
+
+server start sending time at: 1647977676839033
+server finish sending time at: 1647977676839284
+Before saving atlas: presaveStart0: 1647978110076876
+save atlas end0 time at: 1647978110300788
+save atlas serialization time: 0
+client start sending time at: 1647978110300978
+file complete
+server finish receiving time at: 1647978110315484
+
+server start sending time at: 1647978113315685
+server finish sending time at: 1647978113315926
+client received time at: 1647978113318703
+Before Loading atlas: start0: 1647978113377578
+After Loading atlas serialization: end0: 1647978113693180
+Before saving atlas: presaveStart0: 1647978145661541
+save atlas end0 time at: 1647978145964881
+save atlas serialization time: 0
+client start sending time at: 1647978145964995
+file complete
+server finish receiving time at: 1647978145970984
+
+server start sending time at: 1647978148971521
+client received time at: 1647978148972062
+server finish sending time at: 1647978148973229
+Before Loading atlas: start0: 1647978149167295
+After Loading atlas serialization: end0: 1647978149626569
+Before saving atlas: presaveStart0: 1647978183332531
+save atlas end0 time at: 1647978183599733
+save atlas serialization time: 0
+client start sending time at: 1647978183599823
+file complete
+server finish receiving time at: 1647978183600393
+
+server start sending time at: 1647978186600570
+server finish sending time at: 1647978186600817
+client received time at: 1647978186606428
+Before Loading atlas: start0: 1647978186797782
+After Loading atlas serialization: end0: 1647978187017557
+Before saving atlas: presaveStart0: 1647978229136165
+save atlas end0 time at: 1647978229758236
+save atlas serialization time: 0
+client start sending time at: 1647978229758324
+file complete
+server finish receiving time at: 1647978229759363
+
+server start sending time at: 1647978232759552
+server finish sending time at: 1647978232759765

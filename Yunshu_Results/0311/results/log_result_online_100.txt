@@ -1,0 +1,68 @@
+total keyframes: 150
+absolute_translational_error.rmse 0.113125 m
+total keyframes: 145
+absolute_translational_error.rmse 0.099731 m
+total keyframes: 147
+absolute_translational_error.rmse 0.118736 m
+total keyframes: 148
+absolute_translational_error.rmse 0.074355 m
+total keyframes: 153
+absolute_translational_error.rmse 0.140902 m
+total keyframes: 161
+absolute_translational_error.rmse 0.171244 m
+total keyframes: 152
+absolute_translational_error.rmse 0.188389 m
+total keyframes: 145
+absolute_translational_error.rmse 0.076546 m
+total keyframes: 147
+absolute_translational_error.rmse 0.088835 m
+total keyframes: 148
+absolute_translational_error.rmse 0.090036 m
+total keyframes: 151
+absolute_translational_error.rmse 0.133079 m
+total keyframes: 146
+absolute_translational_error.rmse 0.159411 m
+total keyframes: 148
+absolute_translational_error.rmse 0.090351 m
+total keyframes: 150
+absolute_translational_error.rmse 0.100010 m
+total keyframes: 166
+absolute_translational_error.rmse 0.113296 m
+total keyframes: 151
+absolute_translational_error.rmse 0.207942 m     2 Intersection 			error: 0.025347 m
+total keyframes: 151
+absolute_translational_error.rmse 0.313665 m     2 Inter				error: 0.023231 m
+total keyframes: 162
+absolute_translational_error.rmse 0.243277 m 	 3 Intersections  			error: 0.024483 m    
+total keyframes: 153
+absolute_translational_error.rmse 0.102828 m	 3 					error: 0.030735 m
+total keyframes: 161
+absolute_translational_error.rmse 0.296929 m     3 					error: 0.046261 m
+total keyframes: 149
+absolute_translational_error.rmse 0.150916 m     3					error: 0.021311 m
+total keyframes: 157
+absolute_translational_error.rmse 0.185328 m	 3					error: 0.047465 m
+total keyframes: 149
+absolute_translational_error.rmse 0.418286 m	 4  					error: 0.588558 m
+total keyframes: 147
+absolute_translational_error.rmse 0.111812 m	 4					error:  0.032425 m
+total keyframes: 147
+absolute_translational_error.rmse 0.171421 m     4					error:  0.026548 m
+total keyframes: 162
+absolute_translational_error.rmse 0.183848 m	 4					error: 
+total keyframes: 151
+absolute_translational_error.rmse 0.501890 m	 4
+total keyframes: 160
+absolute_translational_error.rmse 0.405893 m	 4 
+total keyframes: 155
+absolute_translational_error.rmse 0.321136 m	 4
+total keyframes: 152
+absolute_translational_error.rmse 0.110995 m     4
+total keyframes: 148
+absolute_translational_error.rmse 0.299155 m	 5
+total keyframes: 150
+absolute_translational_error.rmse 0.159797 m     5
+total keyframes: 153
+absolute_translational_error.rmse 0.191176 m	 5
+total keyframes: 161
+absolute_translational_error.rmse 0.179659 m	 5

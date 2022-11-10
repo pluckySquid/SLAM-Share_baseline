@@ -1,0 +1,15 @@
+MH04:
+absolute_translational_error.rmse 0.071017 m
+
+MH05:
+absolute_translational_error.rmse 0.060260 m
+
+
+MH0405-Oneuser:
+absolute_translational_error.rmse 0.083193 m
+
+
+MH0405-Twousers:
+absolute_translational_error.rmse 0.518099 m
+
+total keyframes: 190

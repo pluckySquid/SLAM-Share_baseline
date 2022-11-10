@@ -1,0 +1,12 @@
+absolute_translational_error.rmse 0.111287 m
+absolute_translational_error.rmse 0.062911 m
+absolute_translational_error.rmse 0.062806 m
+absolute_translational_error.rmse 0.153589 m
+absolute_translational_error.rmse 0.080609 m
+absolute_translational_error.rmse 0.060257 m
+absolute_translational_error.rmse 0.255634 m         1 intersection
+absolute_translational_error.rmse 0.310586 m		2 intersections
+absolute_translational_error.rmse 0.186039 m		3 intersection
+absolute_translational_error.rmse 0.242276 m		4 intersections
+absolute_translational_error.rmse 0.465976 m		4 intersections
+absolute_translational_error.rmse 0.120688 m		5 intersections

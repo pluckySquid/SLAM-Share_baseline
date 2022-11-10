@@ -1,0 +1,24 @@
+python2 evaluation/evaluate_ate_scale_dataset.py Ground_truth/dataset/xyzGroundTruth/00.txt estimatedTrajactory/CameraTrajectory_00.txt --plot CameraTrajectory_00.pdf
+python2 evaluation/evaluate_ate_scale_dataset.py Ground_truth/dataset/xyzGroundTruth/01.txt estimatedTrajactory/CameraTrajectory_01.txt --plot CameraTrajectory_01.pdf
+python2 evaluation/evaluate_ate_scale_dataset.py Ground_truth/dataset/xyzGroundTruth/02.txt estimatedTrajactory/CameraTrajectory_02.txt --plot CameraTrajectory_02.pdf
+python2 evaluation/evaluate_ate_scale_dataset.py Ground_truth/dataset/xyzGroundTruth/03.txt estimatedTrajactory/CameraTrajectory_03.txt --plot CameraTrajectory_03.pdf
+python2 evaluation/evaluate_ate_scale_dataset.py Ground_truth/dataset/xyzGroundTruth/04.txt estimatedTrajactory/CameraTrajectory_04.txt --plot CameraTrajectory_04.pdf
+python2 evaluation/evaluate_ate_scale_dataset.py Ground_truth/dataset/xyzGroundTruth/05.txt estimatedTrajactory/CameraTrajectory_05.txt --plot CameraTrajectory_05.pdf
+python2 evaluation/evaluate_ate_scale_dataset.py Ground_truth/dataset/xyzGroundTruth/06.txt estimatedTrajactory/CameraTrajectory_06.txt --plot CameraTrajectory_06.pdf
+python2 evaluation/evaluate_ate_scale_dataset.py Ground_truth/dataset/xyzGroundTruth/07.txt estimatedTrajactory/CameraTrajectory_07.txt --plot CameraTrajectory_07.pdf
+python2 evaluation/evaluate_ate_scale_dataset.py Ground_truth/dataset/xyzGroundTruth/08.txt estimatedTrajactory/CameraTrajectory_08.txt --plot CameraTrajectory_08.pdf
+python2 evaluation/evaluate_ate_scale_dataset.py Ground_truth/dataset/xyzGroundTruth/09.txt estimatedTrajactory/CameraTrajectory_09.txt --plot CameraTrajectory_09.pdf
+
+
+python2 evaluation/evaluate_ate_scale_dataset_2D.py Ground_truth/dataset/xyzGroundTruth/00.txt estimatedTrajactory/CameraTrajectory_00.txt --plot CameraTrajectory_00.pdf
+python2 evaluation/evaluate_ate_scale_dataset_2D.py Ground_truth/dataset/xyzGroundTruth/01.txt estimatedTrajactory/CameraTrajectory_01.txt --plot CameraTrajectory_01.pdf
+python2 evaluation/evaluate_ate_scale_dataset_2D.py Ground_truth/dataset/xyzGroundTruth/02.txt estimatedTrajactory/CameraTrajectory_02.txt --plot CameraTrajectory_02.pdf
+python2 evaluation/evaluate_ate_scale_dataset_2D.py Ground_truth/dataset/xyzGroundTruth/03.txt estimatedTrajactory/CameraTrajectory_03.txt --plot CameraTrajectory_03.pdf
+python2 evaluation/evaluate_ate_scale_dataset_2D.py Ground_truth/dataset/xyzGroundTruth/04.txt estimatedTrajactory/CameraTrajectory_04.txt --plot CameraTrajectory_04.pdf
+python2 evaluation/evaluate_ate_scale_dataset_2D.py Ground_truth/dataset/xyzGroundTruth/05.txt estimatedTrajactory/CameraTrajectory_05.txt --plot CameraTrajectory_05.pdf
+python2 evaluation/evaluate_ate_scale_dataset_2D.py Ground_truth/dataset/xyzGroundTruth/06.txt estimatedTrajactory/CameraTrajectory_06.txt --plot CameraTrajectory_06.pdf
+python2 evaluation/evaluate_ate_scale_dataset_2D.py Ground_truth/dataset/xyzGroundTruth/07.txt estimatedTrajactory/CameraTrajectory_07.txt --plot CameraTrajectory_07.pdf
+python2 evaluation/evaluate_ate_scale_dataset_2D.py Ground_truth/dataset/xyzGroundTruth/08.txt estimatedTrajactory/CameraTrajectory_08.txt --plot CameraTrajectory_08.pdf
+python2 evaluation/evaluate_ate_scale_dataset_2D.py Ground_truth/dataset/xyzGroundTruth/09.txt estimatedTrajactory/CameraTrajectory_09.txt --plot CameraTrajectory_09.pdf
+
+

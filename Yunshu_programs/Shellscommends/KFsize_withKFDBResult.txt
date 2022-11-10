@@ -1,0 +1,3 @@
+<open file '/home/ucrnet/Desktop/workspace/ORBSLAM3/Yunshu_programs/Shellscommends/KFsize_withoutKFDB2.txt', mode 'r' at 0x7f5018f70540>:
+	103.97
+

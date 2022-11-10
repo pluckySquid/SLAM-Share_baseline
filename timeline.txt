@@ -1,0 +1,11 @@
+First round: 
+	client -> server: 40822 microsecond;
+	server -> client: 3831 ms;
+	client serialization and write  to file: 339934
+	client deserialization and read from file: 441937
+
+
+
+Round 2:
+	
+	

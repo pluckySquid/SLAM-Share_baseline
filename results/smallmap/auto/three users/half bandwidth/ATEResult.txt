@@ -1,0 +1,13 @@
+t
+absolute_translational_error.rmse 2.341198 mlast 10 absolute_translational_error.rmse 1.329109 mt
+absolute_translational_error.rmse 3.042303 mlast 10 absolute_translational_error.rmse 1.413267 mt
+absolute_translational_error.rmse 6.984673 mlast 10 absolute_translational_error.rmse 6.053770 mt
+absolute_translational_error.rmse 3.557550 mlast 10 absolute_translational_error.rmse 1.614509 mt
+absolute_translational_error.rmse 3.762948 mlast 10 absolute_translational_error.rmse 2.060119 mkf_smallmapResult_010_015.txt
+absolute_translational_error.rmse 2.174516 mlast 10 absolute_translational_error.rmse 0.667522 m
+kf_smallmapResult_010_018.txt
+absolute_translational_error.rmse 2.068817 mlast 10 absolute_translational_error.rmse 0.983985 m
+kf_smallmapResult_010_019.txt
+absolute_translational_error.rmse 3.001886 mlast 10 absolute_translational_error.rmse 1.017276 m
+kf_smallmapResult_011_017.txt
+absolute_translational_error.rmse 4.177306 mlast 10 absolute_translational_error.rmse 2.171364 m

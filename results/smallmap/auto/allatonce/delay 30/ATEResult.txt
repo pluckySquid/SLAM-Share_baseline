@@ -1,0 +1,90 @@
+kf_getSmallMap0_0.txt
+absolute_translational_error.rmse 0.030628 m      last 10 absolute_translational_error.rmse 0.026130 m
+kf_getSmallMap0_1.txt
+absolute_translational_error.rmse 0.011724 m      last 10 absolute_translational_error.rmse 0.014474 m
+kf_getSmallMap0_2.txt
+absolute_translational_error.rmse 0.015179 m      last 10 absolute_translational_error.rmse 0.017412 m
+kf_getSmallMap0_3.txt
+absolute_translational_error.rmse 0.013382 m      last 10 absolute_translational_error.rmse 0.009970 m
+kf_getSmallMap10_0.txt
+absolute_translational_error.rmse 0.055779 m      last 10 absolute_translational_error.rmse 0.063166 m
+kf_getSmallMap10_1.txt
+absolute_translational_error.rmse 0.045747 m      last 10 absolute_translational_error.rmse 0.062277 m
+kf_getSmallMap10_2.txt
+absolute_translational_error.rmse 0.069057 m      last 10 absolute_translational_error.rmse 0.073799 m
+kf_getSmallMap11_1.txt
+absolute_translational_error.rmse 0.098158 m      last 10 absolute_translational_error.rmse 0.057373 m
+kf_getSmallMap11_2.txt
+absolute_translational_error.rmse 0.063118 m      last 10 absolute_translational_error.rmse 0.034559 m
+kf_getSmallMap11_3.txt
+absolute_translational_error.rmse 0.345842 m      last 10 absolute_translational_error.rmse 0.126808 m
+kf_getSmallMap1_0.txt
+absolute_translational_error.rmse 0.019747 m      last 10 absolute_translational_error.rmse 0.021383 m
+kf_getSmallMap1_1.txt
+absolute_translational_error.rmse 0.020843 m      last 10 absolute_translational_error.rmse 0.021403 m
+kf_getSmallMap1_2.txt
+absolute_translational_error.rmse 0.012862 m      last 10 absolute_translational_error.rmse 0.012742 m
+kf_getSmallMap1_3.txt
+absolute_translational_error.rmse 0.022236 m      last 10 absolute_translational_error.rmse 0.024928 m
+kf_getSmallMap2_0.txt
+absolute_translational_error.rmse 0.028375 m      last 10 absolute_translational_error.rmse 0.033812 m
+kf_getSmallMap2_1.txt
+absolute_translational_error.rmse 0.024340 m      last 10 absolute_translational_error.rmse 0.011480 m
+kf_getSmallMap2_2.txt
+absolute_translational_error.rmse 0.092425 m      last 10 absolute_translational_error.rmse 0.075080 m
+kf_getSmallMap2_3.txt
+absolute_translational_error.rmse 0.048783 m      last 10 absolute_translational_error.rmse 0.033666 m
+kf_getSmallMap3_0.txt
+absolute_translational_error.rmse 0.014302 m      last 10 absolute_translational_error.rmse 0.007821 m
+kf_getSmallMap3_1.txt
+absolute_translational_error.rmse 0.017428 m      last 10 absolute_translational_error.rmse 0.010281 m
+kf_getSmallMap3_2.txt
+absolute_translational_error.rmse 0.014899 m      last 10 absolute_translational_error.rmse 0.015146 m
+kf_getSmallMap3_3.txt
+absolute_translational_error.rmse 0.541776 m      last 10 absolute_translational_error.rmse 0.187852 m
+kf_getSmallMap4_0.txt
+absolute_translational_error.rmse 0.026358 m      last 10 absolute_translational_error.rmse 0.033197 m
+kf_getSmallMap4_1.txt
+absolute_translational_error.rmse 0.022327 m      last 10 absolute_translational_error.rmse 0.019747 m
+kf_getSmallMap4_2.txt
+absolute_translational_error.rmse 0.026703 m      last 10 absolute_translational_error.rmse 0.021157 m
+kf_getSmallMap4_3.txt
+absolute_translational_error.rmse 0.030654 m      last 10 absolute_translational_error.rmse 0.023463 m
+kf_getSmallMap5_0.txt
+absolute_translational_error.rmse 0.050014 m      last 10 absolute_translational_error.rmse 0.089533 m
+kf_getSmallMap5_1.txt
+absolute_translational_error.rmse 0.034172 m      last 10 absolute_translational_error.rmse 0.059670 m
+kf_getSmallMap5_2.txt
+absolute_translational_error.rmse 0.038073 m      last 10 absolute_translational_error.rmse 0.066848 m
+kf_getSmallMap5_3.txt
+absolute_translational_error.rmse 0.077370 m      last 10 absolute_translational_error.rmse 0.084298 m
+kf_getSmallMap6_0.txt
+absolute_translational_error.rmse 0.029509 m      last 10 absolute_translational_error.rmse 0.022235 m
+kf_getSmallMap6_1.txt
+absolute_translational_error.rmse 0.039019 m      last 10 absolute_translational_error.rmse 0.026101 m
+kf_getSmallMap6_2.txt
+absolute_translational_error.rmse 0.034293 m      last 10 absolute_translational_error.rmse 0.029102 m
+kf_getSmallMap6_3.txt
+absolute_translational_error.rmse 0.042953 m      last 10 absolute_translational_error.rmse 0.035360 m
+kf_getSmallMap7_0.txt
+absolute_translational_error.rmse 0.055495 m      last 10 absolute_translational_error.rmse 0.080319 m
+kf_getSmallMap7_1.txt
+absolute_translational_error.rmse 0.185322 m      last 10 absolute_translational_error.rmse 0.440498 m
+kf_getSmallMap7_2.txt
+absolute_translational_error.rmse 0.049626 m      last 10 absolute_translational_error.rmse 0.051618 m
+kf_getSmallMap7_3.txt
+absolute_translational_error.rmse 0.038175 m      last 10 absolute_translational_error.rmse 0.030750 m
+kf_getSmallMap8_0.txt
+absolute_translational_error.rmse 0.098903 m      last 10 absolute_translational_error.rmse 0.083019 m
+kf_getSmallMap8_1.txt
+absolute_translational_error.rmse 0.071250 m      last 10 absolute_translational_error.rmse 0.080062 m
+kf_getSmallMap8_2.txt
+absolute_translational_error.rmse 0.309625 m      last 10 absolute_translational_error.rmse 0.100673 m
+kf_getSmallMap8_3.txt
+absolute_translational_error.rmse 0.115089 m      last 10 absolute_translational_error.rmse 0.183176 m
+kf_getSmallMap9_0.txt
+absolute_translational_error.rmse 0.084084 m      last 10 absolute_translational_error.rmse 0.082995 m
+kf_getSmallMap9_1.txt
+absolute_translational_error.rmse 1.170293 m      last 10 absolute_translational_error.rmse 2.103534 m
+kf_getSmallMap9_3.txt
+absolute_translational_error.rmse 0.090198 m      last 10 absolute_translational_error.rmse 0.115060 m

@@ -1,0 +1,60 @@
+f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_0.txt:
+	total images are: 100
+	total frames are: 940
+	total key frames are: 111
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_0.txt is: 1.11
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_1.txt:
+	total images are: 200
+	total frames are: 1065
+	total key frames are: 125
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_1.txt is: 0.625
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_2.txt:
+	total images are: 300
+	total frames are: 1172
+	total key frames are: 136
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_2.txt is: 0.453333333333
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_3.txt:
+	total images are: 400
+	total frames are: 1229
+	total key frames are: 128
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_3.txt is: 0.32
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_4.txt:
+	total images are: 500
+	total frames are: 1355
+	total key frames are: 121
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_4.txt is: 0.242
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_5.txt:
+	total images are: 600
+	total frames are: 1450
+	total key frames are: 128
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_5.txt is: 0.213333333333
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_6.txt:
+	total images are: 700
+	total frames are: 1550
+	total key frames are: 144
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_6.txt is: 0.205714285714
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_7.txt:
+	total images are: 800
+	total frames are: 1663
+	total key frames are: 151
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_7.txt is: 0.18875
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_8.txt:
+	total images are: 900
+	total frames are: 1729
+	total key frames are: 141
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_8.txt is: 0.156666666667
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_9.txt:
+	total images are: 1000
+	total frames are: 1858
+	total key frames are: 156
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_0-1000_9.txt is: 0.156
+

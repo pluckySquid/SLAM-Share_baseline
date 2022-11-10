@@ -1,0 +1,34 @@
+kf_smallmapResult_000_000.txt
+absolute_translational_error.rmse 0.201682 mlast 10 absolute_translational_error.rmse 0.228813 m
+kf_smallmapResult_003_003.txt
+absolute_translational_error.rmse 0.028315 mlast 10 absolute_translational_error.rmse 0.035506 m
+kf_smallmapResult_003_005.txt
+absolute_translational_error.rmse 0.029599 mlast 10 absolute_translational_error.rmse 0.037389 m
+kf_smallmapResult_004_001.txt
+absolute_translational_error.rmse 0.039862 mlast 10 absolute_translational_error.rmse 0.092834 m
+kf_smallmapResult_004_002.txt
+absolute_translational_error.rmse 0.040425 mlast 10 absolute_translational_error.rmse 0.045326 m
+kf_smallmapResult_004_004.txt
+absolute_translational_error.rmse 0.040656 mlast 10 absolute_translational_error.rmse 0.068236 m
+kf_smallmapResult_004_005.txt
+absolute_translational_error.rmse 0.052160 mlast 10 absolute_translational_error.rmse 0.059312 m
+kf_smallmapResult_004_007.txt
+absolute_translational_error.rmse 0.051566 mlast 10 absolute_translational_error.rmse 0.075235 m
+kf_smallmapResult_004_008.txt
+absolute_translational_error.rmse 0.040248 mlast 10 absolute_translational_error.rmse 0.052524 m
+kf_smallmapResult_005_002.txt
+absolute_translational_error.rmse 0.044961 mlast 10 absolute_translational_error.rmse 0.066654 m
+kf_smallmapResult_005_004.txt
+absolute_translational_error.rmse 0.041816 mlast 10 absolute_translational_error.rmse 0.033281 m
+kf_smallmapResult_005_010.txt
+absolute_translational_error.rmse 0.058428 mlast 10 absolute_translational_error.rmse 0.071748 m
+kf_smallmapResult_006_007.txt
+absolute_translational_error.rmse 0.074609 mlast 10 absolute_translational_error.rmse 0.107524 m
+kf_smallmapResult_007_000.txt
+absolute_translational_error.rmse 0.270430 mlast 10 absolute_translational_error.rmse 0.228584 m
+kf_smallmapResult_007_009.txt
+absolute_translational_error.rmse 1.154195 mlast 10 absolute_translational_error.rmse 3.271304 m
+kf_smallmapResult_008_008.txt
+absolute_translational_error.rmse 0.051120 mlast 10 absolute_translational_error.rmse 0.065664 m
+kf_smallmapResult_010_019.txt
+absolute_translational_error.rmse 0.046483 mlast 10 absolute_translational_error.rmse 0.043181 m

@@ -1,0 +1,3 @@
+<open file '/home/ucrnet/Desktop/workspace/ORBSLAM3/Yunshu_Results/onlineResults/2kMH04/keyFrameResults_ONLINE_100_MH04_0-2000.txt', mode 'r' at 0x7f075aa0a270>:
+	21.27
+

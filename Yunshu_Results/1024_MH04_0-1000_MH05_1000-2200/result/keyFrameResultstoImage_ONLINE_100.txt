@@ -1,0 +1,72 @@
+f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_10.txt:
+	total images are: 100
+	total frames are: 943
+	total key frames are: 116
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_10.txt is: 1.16
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_11.txt:
+	total images are: 200
+	total frames are: 942
+	total key frames are: 115
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_11.txt is: 0.575
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_12.txt:
+	total images are: 300
+	total frames are: 938
+	total key frames are: 113
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_12.txt is: 0.376666666667
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_13.txt:
+	total images are: 400
+	total frames are: 952
+	total key frames are: 115
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_13.txt is: 0.2875
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_14.txt:
+	total images are: 500
+	total frames are: 953
+	total key frames are: 121
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_14.txt is: 0.242
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_15.txt:
+	total images are: 600
+	total frames are: 939
+	total key frames are: 111
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_15.txt is: 0.185
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_16.txt:
+	total images are: 700
+	total frames are: 1644
+	total key frames are: 221
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_16.txt is: 0.315714285714
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_17.txt:
+	total images are: 800
+	total frames are: 1749
+	total key frames are: 214
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_17.txt is: 0.2675
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_18.txt:
+	total images are: 900
+	total frames are: 1844
+	total key frames are: 232
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_18.txt is: 0.257777777778
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_19.txt:
+	total images are: 1000
+	total frames are: 1948
+	total key frames are: 229
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_19.txt is: 0.229
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_20.txt:
+	total images are: 1100
+	total frames are: 2046
+	total key frames are: 258
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_20.txt is: 0.234545454545
+
+f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_21.txt:
+	total images are: 1200
+	total frames are: 2127
+	total key frames are: 229
+keyframeRate of f_dataset-MH0405-1024_MH04_0-1000_MH05_1000-2200_21.txt is: 0.190833333333
+

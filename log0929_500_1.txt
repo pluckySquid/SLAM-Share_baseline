@@ -1,0 +1,3922 @@
+num_seq = 1
+file name: dataset-MH04-0922_1
+Loading images for sequence 0...LOADED!
+number of Images:1533
+
+-------
+
+ORB-SLAM3 Copyright (C) 2017-2020 Carlos Campos, Richard Elvira, Juan J. Gómez, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+ORB-SLAM2 Copyright (C) 2014-2016 Raúl Mur-Artal, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions. See LICENSE.txt.
+
+Input sensor was set to: Monocular
+
+Loading ORB Vocabulary. This could take a while...
+Vocabulary loaded!
+
+In if strLoadingFile.empty()
+Creation of new map with id: 0
+Creation of new map with last KF id: 0
+Seq. Name: 
+
+Camera Parameters: 
+- Camera: Pinhole
+- fx: 458.65399169921875
+- fy: 457.29598999023438
+- cx: 367.21499633789062
+- cy: 248.375
+- k1: -0.28340810537338257
+- k2: 0.073959067463874817
+- p1: 0.00019359000725671649
+- p2: 1.7618711353861727e-05
+- fps: 20
+- color order: RGB (ignored if grayscale)
+
+ORB Extractor Parameters: 
+- Number of Features: 1000
+- Scale Levels: 8
+- Scale Factor: 1.2000000476837158
+- Initial Fast Threshold: 20
+- Minimum Fast Threshold: 7
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+First KF:0; Map init KF:0
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+New Map created with 64 points
+Point distribution in KeyFrame: left-> 64 --- right-> 0
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+3 Track: 
+Map::AddKeyFrame 01
+Map::AddKeyFrame 02
+Map::AddKeyFrame 03
+Map::AddKeyFrame 05
+Map::AddKeyFrame 06
+Map::AddKeyFrame end
+3 Track: 
+3 Track: 
+id last: 499    id curr: 500
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.2450969
+3 Track: 
+id last: 499    id curr: 501
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.2950971
+3 Track: 
+id last: 499    id curr: 502
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.3450971
+3 Track: 
+id last: 499    id curr: 503
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.395097
+3 Track: 
+id last: 499    id curr: 504
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.445097
+3 Track: 
+id last: 499    id curr: 505
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.4950972
+3 Track: 
+id last: 499    id curr: 506
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.5450969
+3 Track: 
+id last: 499    id curr: 507
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.5950971
+3 Track: 
+id last: 499    id curr: 508
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.645097
+3 Track: 
+id last: 499    id curr: 509
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.695097
+3 Track: 
+id last: 499    id curr: 510
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.7450969
+3 Track: 
+id last: 499    id curr: 511
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.7950971
+3 Track: 
+id last: 499    id curr: 512
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.8450971
+3 Track: 
+id last: 499    id curr: 513
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.895097
+3 Track: 
+id last: 499    id curr: 514
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.945097
+3 Track: 
+id last: 499    id curr: 515
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638177.9950972
+3 Track: 
+id last: 499    id curr: 516
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.0450969
+3 Track: 
+id last: 499    id curr: 517
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.0950971
+3 Track: 
+id last: 499    id curr: 518
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.145097
+3 Track: 
+id last: 499    id curr: 519
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.195097
+3 Track: 
+id last: 499    id curr: 520
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.2450969
+3 Track: 
+id last: 499    id curr: 521
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.2950971
+3 Track: 
+id last: 499    id curr: 522
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.3450971
+3 Track: 
+id last: 499    id curr: 523
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.395097
+3 Track: 
+id last: 499    id curr: 524
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.445097
+3 Track: 
+id last: 499    id curr: 525
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.4950972
+3 Track: 
+id last: 499    id curr: 526
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.5450969
+3 Track: 
+id last: 499    id curr: 527
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.5950971
+3 Track: 
+id last: 499    id curr: 528
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.645097
+3 Track: 
+id last: 499    id curr: 529
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.695097
+3 Track: 
+id last: 499    id curr: 530
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.7450969
+3 Track: 
+id last: 499    id curr: 531
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.7950971
+3 Track: 
+id last: 499    id curr: 532
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.8450971
+3 Track: 
+id last: 499    id curr: 533
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.895097
+3 Track: 
+id last: 499    id curr: 534
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.945097
+3 Track: 
+id last: 499    id curr: 535
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638178.9950972
+3 Track: 
+id last: 499    id curr: 536
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.0450969
+3 Track: 
+id last: 499    id curr: 537
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.0950971
+3 Track: 
+id last: 499    id curr: 538
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.145097
+3 Track: 
+id last: 499    id curr: 539
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.195097
+3 Track: 
+id last: 499    id curr: 540
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.2450969
+3 Track: 
+id last: 499    id curr: 541
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.2950971
+3 Track: 
+id last: 499    id curr: 542
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.3450971
+3 Track: 
+id last: 499    id curr: 543
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.395097
+3 Track: 
+id last: 499    id curr: 544
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.445097
+3 Track: 
+id last: 499    id curr: 545
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.4950972
+3 Track: 
+id last: 499    id curr: 546
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.5450969
+3 Track: 
+id last: 499    id curr: 547
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.5950971
+3 Track: 
+id last: 499    id curr: 548
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.645097
+3 Track: 
+id last: 499    id curr: 549
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.695097
+3 Track: 
+id last: 499    id curr: 550
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.7450969
+3 Track: 
+id last: 499    id curr: 551
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.7950971
+3 Track: 
+id last: 499    id curr: 552
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.8450971
+3 Track: 
+id last: 499    id curr: 553
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.895097
+3 Track: 
+id last: 499    id curr: 554
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.945097
+3 Track: 
+id last: 499    id curr: 555
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638179.9950972
+3 Track: 
+id last: 499    id curr: 556
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.0450969
+3 Track: 
+id last: 499    id curr: 557
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.0950971
+3 Track: 
+id last: 499    id curr: 558
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.145097
+3 Track: 
+id last: 499    id curr: 559
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.195097
+3 Track: 
+id last: 499    id curr: 560
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.2450969
+3 Track: 
+id last: 499    id curr: 561
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.2950971
+3 Track: 
+id last: 499    id curr: 562
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.3450971
+3 Track: 
+id last: 499    id curr: 563
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.395097
+3 Track: 
+id last: 499    id curr: 564
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.445097
+3 Track: 
+id last: 499    id curr: 565
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.4950972
+3 Track: 
+id last: 499    id curr: 566
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.5450969
+3 Track: 
+id last: 499    id curr: 567
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.5950971
+3 Track: 
+id last: 499    id curr: 568
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.645097
+3 Track: 
+id last: 499    id curr: 569
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.695097
+3 Track: 
+id last: 499    id curr: 570
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.7450969
+3 Track: 
+id last: 499    id curr: 571
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.7950971
+3 Track: 
+id last: 499    id curr: 572
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.8450971
+3 Track: 
+id last: 499    id curr: 573
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.895097
+3 Track: 
+id last: 499    id curr: 574
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.945097
+3 Track: 
+id last: 499    id curr: 575
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638180.9950972
+3 Track: 
+id last: 499    id curr: 576
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.0450969
+3 Track: 
+id last: 499    id curr: 577
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.0950971
+3 Track: 
+id last: 499    id curr: 578
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.145097
+3 Track: 
+id last: 499    id curr: 579
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.195097
+3 Track: 
+id last: 499    id curr: 580
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.2450969
+3 Track: 
+id last: 499    id curr: 581
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.2950971
+3 Track: 
+id last: 499    id curr: 582
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.3450971
+3 Track: 
+id last: 499    id curr: 583
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.395097
+3 Track: 
+id last: 499    id curr: 584
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.445097
+3 Track: 
+id last: 499    id curr: 585
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.4950972
+3 Track: 
+id last: 499    id curr: 586
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.5450969
+3 Track: 
+id last: 499    id curr: 587
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.5950971
+3 Track: 
+id last: 499    id curr: 588
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.645097
+3 Track: 
+id last: 499    id curr: 589
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.695097
+3 Track: 
+id last: 499    id curr: 590
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.7450969
+3 Track: 
+id last: 499    id curr: 591
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.7950971
+3 Track: 
+id last: 499    id curr: 592
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.8450971
+3 Track: 
+id last: 499    id curr: 593
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.895097
+3 Track: 
+id last: 499    id curr: 594
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.945097
+3 Track: 
+id last: 499    id curr: 595
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638181.9950972
+3 Track: 
+id last: 499    id curr: 596
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.0450969
+3 Track: 
+id last: 499    id curr: 597
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.0950971
+3 Track: 
+id last: 499    id curr: 598
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.145097
+3 Track: 
+id last: 499    id curr: 599
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.195097
+3 Track: 
+id last: 499    id curr: 600
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.2450969
+3 Track: 
+id last: 499    id curr: 601
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.2950971
+3 Track: 
+id last: 499    id curr: 602
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.3450971
+3 Track: 
+id last: 499    id curr: 603
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.395097
+3 Track: 
+id last: 499    id curr: 604
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.445097
+3 Track: 
+id last: 499    id curr: 605
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.4950972
+3 Track: 
+id last: 499    id curr: 606
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.5450969
+3 Track: 
+id last: 499    id curr: 607
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.5950971
+3 Track: 
+id last: 499    id curr: 608
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.645097
+3 Track: 
+id last: 499    id curr: 609
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.695097
+3 Track: 
+id last: 499    id curr: 610
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.7450969
+3 Track: 
+id last: 499    id curr: 611
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.7950971
+3 Track: 
+id last: 499    id curr: 612
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.8450971
+3 Track: 
+id last: 499    id curr: 613
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.895097
+3 Track: 
+id last: 499    id curr: 614
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.945097
+3 Track: 
+id last: 499    id curr: 615
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638182.9950972
+3 Track: 
+id last: 499    id curr: 616
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.0450969
+3 Track: 
+id last: 499    id curr: 617
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.0950971
+3 Track: 
+id last: 499    id curr: 618
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.145097
+3 Track: 
+id last: 499    id curr: 619
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.195097
+3 Track: 
+id last: 499    id curr: 620
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.2450969
+3 Track: 
+id last: 499    id curr: 621
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.2950971
+3 Track: 
+id last: 499    id curr: 622
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.3450971
+3 Track: 
+id last: 499    id curr: 623
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.395097
+3 Track: 
+id last: 499    id curr: 624
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.445097
+3 Track: 
+id last: 499    id curr: 625
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.4950972
+3 Track: 
+id last: 499    id curr: 626
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.5450969
+3 Track: 
+id last: 499    id curr: 627
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.5950971
+3 Track: 
+id last: 499    id curr: 628
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.645097
+3 Track: 
+id last: 499    id curr: 629
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.695097
+3 Track: 
+id last: 499    id curr: 630
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.7450969
+3 Track: 
+id last: 499    id curr: 631
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.7950971
+3 Track: 
+id last: 499    id curr: 632
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.8450971
+3 Track: 
+id last: 499    id curr: 633
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.895097
+3 Track: 
+id last: 499    id curr: 634
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.945097
+3 Track: 
+id last: 499    id curr: 635
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638183.9950972
+3 Track: 
+id last: 499    id curr: 636
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.0450969
+3 Track: 
+id last: 499    id curr: 637
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.0950971
+3 Track: 
+id last: 499    id curr: 638
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.145097
+3 Track: 
+id last: 499    id curr: 639
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.195097
+3 Track: 
+id last: 499    id curr: 640
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.2450969
+3 Track: 
+id last: 499    id curr: 641
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.2950971
+3 Track: 
+id last: 499    id curr: 642
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.3450971
+3 Track: 
+id last: 499    id curr: 643
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.395097
+3 Track: 
+id last: 499    id curr: 644
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.445097
+3 Track: 
+id last: 499    id curr: 645
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.4950972
+3 Track: 
+id last: 499    id curr: 646
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.5450969
+3 Track: 
+id last: 499    id curr: 647
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.5950971
+3 Track: 
+id last: 499    id curr: 648
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.645097
+3 Track: 
+id last: 499    id curr: 649
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.695097
+3 Track: 
+id last: 499    id curr: 650
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.7450969
+3 Track: 
+id last: 499    id curr: 651
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.7950971
+3 Track: 
+id last: 499    id curr: 652
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.8450971
+3 Track: 
+id last: 499    id curr: 653
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.895097
+3 Track: 
+id last: 499    id curr: 654
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.945097
+3 Track: 
+id last: 499    id curr: 655
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638184.9950972
+3 Track: 
+id last: 499    id curr: 656
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.0450969
+3 Track: 
+id last: 499    id curr: 657
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.0950971
+3 Track: 
+id last: 499    id curr: 658
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.145097
+3 Track: 
+id last: 499    id curr: 659
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.195097
+3 Track: 
+id last: 499    id curr: 660
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.2450969
+3 Track: 
+id last: 499    id curr: 661
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.2950971
+3 Track: 
+id last: 499    id curr: 662
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.3450971
+3 Track: 
+id last: 499    id curr: 663
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.395097
+3 Track: 
+id last: 499    id curr: 664
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.445097
+3 Track: 
+id last: 499    id curr: 665
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.4950972
+3 Track: 
+id last: 499    id curr: 666
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.5450969
+3 Track: 
+id last: 499    id curr: 667
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.5950971
+3 Track: 
+id last: 499    id curr: 668
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.645097
+3 Track: 
+id last: 499    id curr: 669
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.695097
+3 Track: 
+id last: 499    id curr: 670
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.7450969
+3 Track: 
+id last: 499    id curr: 671
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.7950971
+3 Track: 
+id last: 499    id curr: 672
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.8450971
+3 Track: 
+id last: 499    id curr: 673
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.895097
+3 Track: 
+id last: 499    id curr: 674
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.945097
+3 Track: 
+id last: 499    id curr: 675
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638185.9950972
+3 Track: 
+id last: 499    id curr: 676
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.0450969
+3 Track: 
+id last: 499    id curr: 677
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.0950971
+3 Track: 
+id last: 499    id curr: 678
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.145097
+3 Track: 
+id last: 499    id curr: 679
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.195097
+3 Track: 
+id last: 499    id curr: 680
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.2450969
+3 Track: 
+id last: 499    id curr: 681
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.2950971
+3 Track: 
+id last: 499    id curr: 682
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.3450971
+3 Track: 
+id last: 499    id curr: 683
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.395097
+3 Track: 
+id last: 499    id curr: 684
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.445097
+3 Track: 
+id last: 499    id curr: 685
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.4950972
+3 Track: 
+id last: 499    id curr: 686
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.5450969
+3 Track: 
+id last: 499    id curr: 687
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.5950971
+3 Track: 
+id last: 499    id curr: 688
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.645097
+3 Track: 
+id last: 499    id curr: 689
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.695097
+3 Track: 
+id last: 499    id curr: 690
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.7450969
+3 Track: 
+id last: 499    id curr: 691
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.7950971
+3 Track: 
+id last: 499    id curr: 692
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.8450971
+3 Track: 
+id last: 499    id curr: 693
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.895097
+3 Track: 
+id last: 499    id curr: 694
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.945097
+3 Track: 
+id last: 499    id curr: 695
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638186.9950972
+3 Track: 
+id last: 499    id curr: 696
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.0450969
+3 Track: 
+id last: 499    id curr: 697
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.0950971
+3 Track: 
+id last: 499    id curr: 698
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.145097
+3 Track: 
+id last: 499    id curr: 699
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.195097
+3 Track: 
+id last: 499    id curr: 700
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.2450969
+3 Track: 
+id last: 499    id curr: 701
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.2950971
+3 Track: 
+id last: 499    id curr: 702
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.3450971
+3 Track: 
+id last: 499    id curr: 703
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.395097
+3 Track: 
+id last: 499    id curr: 704
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.445097
+3 Track: 
+id last: 499    id curr: 705
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.4950972
+3 Track: 
+id last: 499    id curr: 706
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.5450969
+3 Track: 
+id last: 499    id curr: 707
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.5950971
+3 Track: 
+id last: 499    id curr: 708
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.645097
+3 Track: 
+id last: 499    id curr: 709
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.695097
+3 Track: 
+id last: 499    id curr: 710
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.7450969
+3 Track: 
+id last: 499    id curr: 711
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.7950971
+3 Track: 
+id last: 499    id curr: 712
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.8450971
+3 Track: 
+id last: 499    id curr: 713
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.895097
+3 Track: 
+id last: 499    id curr: 714
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.945097
+3 Track: 
+id last: 499    id curr: 715
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638187.9950972
+3 Track: 
+id last: 499    id curr: 716
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.0450969
+3 Track: 
+id last: 499    id curr: 717
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.0950971
+3 Track: 
+id last: 499    id curr: 718
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.145097
+3 Track: 
+id last: 499    id curr: 719
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.195097
+3 Track: 
+id last: 499    id curr: 720
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.2450969
+3 Track: 
+id last: 499    id curr: 721
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.2950971
+3 Track: 
+id last: 499    id curr: 722
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.3450971
+3 Track: 
+id last: 499    id curr: 723
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.395097
+3 Track: 
+id last: 499    id curr: 724
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.445097
+3 Track: 
+id last: 499    id curr: 725
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.4950972
+3 Track: 
+id last: 499    id curr: 726
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.5450969
+3 Track: 
+id last: 499    id curr: 727
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.5950971
+3 Track: 
+id last: 499    id curr: 728
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.645097
+3 Track: 
+id last: 499    id curr: 729
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.695097
+3 Track: 
+id last: 499    id curr: 730
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.7450969
+3 Track: 
+id last: 499    id curr: 731
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.7950971
+3 Track: 
+id last: 499    id curr: 732
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.8450971
+3 Track: 
+id last: 499    id curr: 733
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.895097
+3 Track: 
+id last: 499    id curr: 734
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.945097
+3 Track: 
+id last: 499    id curr: 735
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638188.9950972
+3 Track: 
+id last: 499    id curr: 736
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.0450969
+3 Track: 
+id last: 499    id curr: 737
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.0950971
+3 Track: 
+id last: 499    id curr: 738
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.145097
+3 Track: 
+id last: 499    id curr: 739
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.195097
+3 Track: 
+id last: 499    id curr: 740
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.2450969
+3 Track: 
+id last: 499    id curr: 741
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.2950971
+3 Track: 
+id last: 499    id curr: 742
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.3450971
+3 Track: 
+id last: 499    id curr: 743
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.395097
+3 Track: 
+id last: 499    id curr: 744
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.445097
+3 Track: 
+id last: 499    id curr: 745
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.4950972
+3 Track: 
+id last: 499    id curr: 746
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.5450969
+3 Track: 
+id last: 499    id curr: 747
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.5950971
+3 Track: 
+id last: 499    id curr: 748
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.645097
+3 Track: 
+id last: 499    id curr: 749
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.695097
+3 Track: 
+id last: 499    id curr: 750
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.7450969
+3 Track: 
+id last: 499    id curr: 751
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.7950971
+3 Track: 
+id last: 499    id curr: 752
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.8450971
+3 Track: 
+id last: 499    id curr: 753
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.895097
+3 Track: 
+id last: 499    id curr: 754
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.945097
+3 Track: 
+id last: 499    id curr: 755
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638189.9950972
+3 Track: 
+id last: 499    id curr: 756
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.0450969
+3 Track: 
+id last: 499    id curr: 757
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.0950971
+3 Track: 
+id last: 499    id curr: 758
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.145097
+3 Track: 
+id last: 499    id curr: 759
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.195097
+3 Track: 
+id last: 499    id curr: 760
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.2450969
+3 Track: 
+id last: 499    id curr: 761
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.2950971
+3 Track: 
+id last: 499    id curr: 762
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.3450971
+3 Track: 
+id last: 499    id curr: 763
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.395097
+3 Track: 
+id last: 499    id curr: 764
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.445097
+3 Track: 
+id last: 499    id curr: 765
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.4950972
+3 Track: 
+id last: 499    id curr: 766
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.5450969
+3 Track: 
+id last: 499    id curr: 767
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.5950971
+3 Track: 
+id last: 499    id curr: 768
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.645097
+3 Track: 
+id last: 499    id curr: 769
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.695097
+3 Track: 
+id last: 499    id curr: 770
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.7450969
+3 Track: 
+id last: 499    id curr: 771
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.7950971
+3 Track: 
+id last: 499    id curr: 772
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.8450971
+3 Track: 
+id last: 499    id curr: 773
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.895097
+3 Track: 
+id last: 499    id curr: 774
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.945097
+3 Track: 
+id last: 499    id curr: 775
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638190.9950972
+3 Track: 
+id last: 499    id curr: 776
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.0450969
+3 Track: 
+id last: 499    id curr: 777
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.0950971
+3 Track: 
+id last: 499    id curr: 778
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.145097
+3 Track: 
+id last: 499    id curr: 779
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.195097
+3 Track: 
+id last: 499    id curr: 780
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.2450969
+3 Track: 
+id last: 499    id curr: 781
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.2950971
+3 Track: 
+id last: 499    id curr: 782
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.3450971
+3 Track: 
+id last: 499    id curr: 783
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.395097
+3 Track: 
+id last: 499    id curr: 784
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.445097
+3 Track: 
+id last: 499    id curr: 785
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.4950972
+3 Track: 
+id last: 499    id curr: 786
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.5450969
+3 Track: 
+id last: 499    id curr: 787
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.5950971
+3 Track: 
+id last: 499    id curr: 788
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.645097
+3 Track: 
+id last: 499    id curr: 789
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.695097
+3 Track: 
+id last: 499    id curr: 790
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.7450969
+3 Track: 
+id last: 499    id curr: 791
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.7950971
+3 Track: 
+id last: 499    id curr: 792
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.8450971
+3 Track: 
+id last: 499    id curr: 793
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.895097
+3 Track: 
+id last: 499    id curr: 794
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.945097
+3 Track: 
+id last: 499    id curr: 795
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638191.9950972
+3 Track: 
+id last: 499    id curr: 796
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.0450969
+3 Track: 
+id last: 499    id curr: 797
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.0950971
+3 Track: 
+id last: 499    id curr: 798
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.145097
+3 Track: 
+id last: 499    id curr: 799
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.195097
+3 Track: 
+id last: 499    id curr: 800
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.2450969
+3 Track: 
+id last: 499    id curr: 801
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.2950971
+3 Track: 
+id last: 499    id curr: 802
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.3450971
+3 Track: 
+id last: 499    id curr: 803
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.395097
+3 Track: 
+id last: 499    id curr: 804
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.445097
+3 Track: 
+id last: 499    id curr: 805
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.4950972
+3 Track: 
+id last: 499    id curr: 806
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.5450969
+3 Track: 
+id last: 499    id curr: 807
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.5950971
+3 Track: 
+id last: 499    id curr: 808
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.645097
+3 Track: 
+id last: 499    id curr: 809
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.695097
+3 Track: 
+id last: 499    id curr: 810
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.7450969
+3 Track: 
+id last: 499    id curr: 811
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.7950971
+3 Track: 
+id last: 499    id curr: 812
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.8450971
+3 Track: 
+id last: 499    id curr: 813
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.895097
+3 Track: 
+id last: 499    id curr: 814
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.945097
+3 Track: 
+id last: 499    id curr: 815
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638192.9950972
+3 Track: 
+id last: 499    id curr: 816
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.0450969
+3 Track: 
+id last: 499    id curr: 817
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.0950971
+3 Track: 
+id last: 499    id curr: 818
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.145097
+3 Track: 
+id last: 499    id curr: 819
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.195097
+3 Track: 
+id last: 499    id curr: 820
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.2450969
+3 Track: 
+id last: 499    id curr: 821
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.2950971
+3 Track: 
+id last: 499    id curr: 822
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.3450971
+3 Track: 
+id last: 499    id curr: 823
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.395097
+3 Track: 
+id last: 499    id curr: 824
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.445097
+3 Track: 
+id last: 499    id curr: 825
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.4950972
+3 Track: 
+id last: 499    id curr: 826
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.5450969
+3 Track: 
+id last: 499    id curr: 827
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.5950971
+3 Track: 
+id last: 499    id curr: 828
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.645097
+3 Track: 
+id last: 499    id curr: 829
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.695097
+3 Track: 
+id last: 499    id curr: 830
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.7450969
+3 Track: 
+id last: 499    id curr: 831
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.7950971
+3 Track: 
+id last: 499    id curr: 832
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.8450971
+3 Track: 
+id last: 499    id curr: 833
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.895097
+3 Track: 
+id last: 499    id curr: 834
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.945097
+3 Track: 
+id last: 499    id curr: 835
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638193.9950972
+3 Track: 
+id last: 499    id curr: 836
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.0450969
+3 Track: 
+id last: 499    id curr: 837
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.0950971
+3 Track: 
+id last: 499    id curr: 838
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.145097
+3 Track: 
+id last: 499    id curr: 839
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.195097
+3 Track: 
+id last: 499    id curr: 840
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.2450969
+3 Track: 
+id last: 499    id curr: 841
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.2950971
+3 Track: 
+id last: 499    id curr: 842
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.3450971
+3 Track: 
+id last: 499    id curr: 843
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.395097
+3 Track: 
+id last: 499    id curr: 844
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.445097
+3 Track: 
+id last: 499    id curr: 845
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.4950972
+3 Track: 
+id last: 499    id curr: 846
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.5450969
+3 Track: 
+id last: 499    id curr: 847
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.5950971
+3 Track: 
+id last: 499    id curr: 848
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.645097
+3 Track: 
+id last: 499    id curr: 849
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.695097
+3 Track: 
+id last: 499    id curr: 850
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.7450969
+3 Track: 
+id last: 499    id curr: 851
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.7950971
+3 Track: 
+id last: 499    id curr: 852
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.8450971
+3 Track: 
+id last: 499    id curr: 853
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.895097
+3 Track: 
+id last: 499    id curr: 854
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.945097
+3 Track: 
+id last: 499    id curr: 855
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638194.9950972
+3 Track: 
+id last: 499    id curr: 856
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.0450969
+3 Track: 
+id last: 499    id curr: 857
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.0950971
+3 Track: 
+id last: 499    id curr: 858
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.145097
+3 Track: 
+id last: 499    id curr: 859
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.195097
+3 Track: 
+id last: 499    id curr: 860
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.2450969
+3 Track: 
+id last: 499    id curr: 861
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.2950971
+3 Track: 
+id last: 499    id curr: 862
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.3450971
+3 Track: 
+id last: 499    id curr: 863
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.395097
+3 Track: 
+id last: 499    id curr: 864
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.445097
+3 Track: 
+id last: 499    id curr: 865
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.4950972
+3 Track: 
+id last: 499    id curr: 866
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.5450969
+3 Track: 
+id last: 499    id curr: 867
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.5950971
+3 Track: 
+id last: 499    id curr: 868
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.645097
+3 Track: 
+id last: 499    id curr: 869
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.695097
+3 Track: 
+id last: 499    id curr: 870
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.7450969
+3 Track: 
+id last: 499    id curr: 871
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.7950971
+3 Track: 
+id last: 499    id curr: 872
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.8450971
+3 Track: 
+id last: 499    id curr: 873
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.895097
+3 Track: 
+id last: 499    id curr: 874
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.945097
+3 Track: 
+id last: 499    id curr: 875
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638195.9950972
+3 Track: 
+id last: 499    id curr: 876
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.0450969
+3 Track: 
+id last: 499    id curr: 877
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.0950971
+3 Track: 
+id last: 499    id curr: 878
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.145097
+3 Track: 
+id last: 499    id curr: 879
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.195097
+3 Track: 
+id last: 499    id curr: 880
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.2450969
+3 Track: 
+id last: 499    id curr: 881
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.2950971
+3 Track: 
+id last: 499    id curr: 882
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.3450971
+3 Track: 
+id last: 499    id curr: 883
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.395097
+3 Track: 
+id last: 499    id curr: 884
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.445097
+3 Track: 
+id last: 499    id curr: 885
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.4950972
+3 Track: 
+id last: 499    id curr: 886
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.5450969
+3 Track: 
+id last: 499    id curr: 887
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.5950971
+3 Track: 
+id last: 499    id curr: 888
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.645097
+3 Track: 
+id last: 499    id curr: 889
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.695097
+3 Track: 
+id last: 499    id curr: 890
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.7450969
+3 Track: 
+id last: 499    id curr: 891
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.7950971
+3 Track: 
+id last: 499    id curr: 892
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.8450971
+3 Track: 
+id last: 499    id curr: 893
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.895097
+3 Track: 
+id last: 499    id curr: 894
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.945097
+3 Track: 
+id last: 499    id curr: 895
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638196.9950972
+3 Track: 
+id last: 499    id curr: 896
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.0450969
+3 Track: 
+id last: 499    id curr: 897
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.0950971
+3 Track: 
+id last: 499    id curr: 898
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.145097
+3 Track: 
+id last: 499    id curr: 899
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.195097
+3 Track: 
+id last: 499    id curr: 900
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.2450969
+3 Track: 
+id last: 499    id curr: 901
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.2950971
+3 Track: 
+id last: 499    id curr: 902
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.3450971
+3 Track: 
+id last: 499    id curr: 903
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.395097
+3 Track: 
+id last: 499    id curr: 904
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.445097
+3 Track: 
+id last: 499    id curr: 905
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.4950972
+3 Track: 
+id last: 499    id curr: 906
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.5450969
+3 Track: 
+id last: 499    id curr: 907
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.5950971
+3 Track: 
+id last: 499    id curr: 908
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.645097
+3 Track: 
+id last: 499    id curr: 909
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.695097
+3 Track: 
+id last: 499    id curr: 910
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.7450969
+3 Track: 
+id last: 499    id curr: 911
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.7950971
+3 Track: 
+id last: 499    id curr: 912
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.8450971
+3 Track: 
+id last: 499    id curr: 913
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.895097
+3 Track: 
+id last: 499    id curr: 914
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.945097
+3 Track: 
+id last: 499    id curr: 915
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638197.9950972
+3 Track: 
+id last: 499    id curr: 916
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.0450969
+3 Track: 
+id last: 499    id curr: 917
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.0950971
+3 Track: 
+id last: 499    id curr: 918
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.145097
+3 Track: 
+id last: 499    id curr: 919
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.195097
+3 Track: 
+id last: 499    id curr: 920
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.2450969
+3 Track: 
+id last: 499    id curr: 921
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.2950971
+3 Track: 
+id last: 499    id curr: 922
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.3450971
+3 Track: 
+id last: 499    id curr: 923
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.395097
+3 Track: 
+id last: 499    id curr: 924
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.445097
+3 Track: 
+id last: 499    id curr: 925
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.4950972
+3 Track: 
+id last: 499    id curr: 926
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.5450969
+3 Track: 
+id last: 499    id curr: 927
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.5950971
+3 Track: 
+id last: 499    id curr: 928
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.645097
+3 Track: 
+id last: 499    id curr: 929
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.695097
+3 Track: 
+id last: 499    id curr: 930
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.7450969
+3 Track: 
+id last: 499    id curr: 931
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.7950971
+3 Track: 
+id last: 499    id curr: 932
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.8450971
+3 Track: 
+id last: 499    id curr: 933
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.895097
+3 Track: 
+id last: 499    id curr: 934
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.945097
+3 Track: 
+id last: 499    id curr: 935
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638198.9950972
+3 Track: 
+id last: 499    id curr: 936
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.0450969
+3 Track: 
+id last: 499    id curr: 937
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.0950971
+3 Track: 
+id last: 499    id curr: 938
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.145097
+3 Track: 
+id last: 499    id curr: 939
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.195097
+3 Track: 
+id last: 499    id curr: 940
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.2450969
+3 Track: 
+id last: 499    id curr: 941
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.2950971
+3 Track: 
+id last: 499    id curr: 942
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.3450971
+3 Track: 
+id last: 499    id curr: 943
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.395097
+3 Track: 
+id last: 499    id curr: 944
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.445097
+3 Track: 
+id last: 499    id curr: 945
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.4950972
+3 Track: 
+id last: 499    id curr: 946
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.5450969
+3 Track: 
+id last: 499    id curr: 947
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.5950971
+3 Track: 
+id last: 499    id curr: 948
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.645097
+3 Track: 
+id last: 499    id curr: 949
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.695097
+3 Track: 
+id last: 499    id curr: 950
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.7450969
+3 Track: 
+id last: 499    id curr: 951
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.7950971
+3 Track: 
+id last: 499    id curr: 952
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.8450971
+3 Track: 
+id last: 499    id curr: 953
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.895097
+3 Track: 
+id last: 499    id curr: 954
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.945097
+3 Track: 
+id last: 499    id curr: 955
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638199.9950972
+3 Track: 
+id last: 499    id curr: 956
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.0450969
+3 Track: 
+id last: 499    id curr: 957
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.0950971
+3 Track: 
+id last: 499    id curr: 958
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.145097
+3 Track: 
+id last: 499    id curr: 959
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.195097
+3 Track: 
+id last: 499    id curr: 960
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.2450969
+3 Track: 
+id last: 499    id curr: 961
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.2950971
+3 Track: 
+id last: 499    id curr: 962
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.3450971
+3 Track: 
+id last: 499    id curr: 963
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.395097
+3 Track: 
+id last: 499    id curr: 964
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.445097
+3 Track: 
+id last: 499    id curr: 965
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.4950972
+3 Track: 
+id last: 499    id curr: 966
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.5450969
+3 Track: 
+id last: 499    id curr: 967
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.5950971
+3 Track: 
+id last: 499    id curr: 968
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.645097
+3 Track: 
+id last: 499    id curr: 969
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.695097
+3 Track: 
+id last: 499    id curr: 970
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.7450969
+3 Track: 
+id last: 499    id curr: 971
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.7950971
+3 Track: 
+id last: 499    id curr: 972
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.8450971
+3 Track: 
+id last: 499    id curr: 973
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.895097
+3 Track: 
+id last: 499    id curr: 974
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.945097
+3 Track: 
+id last: 499    id curr: 975
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638200.9950972
+3 Track: 
+id last: 499    id curr: 976
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.0450969
+3 Track: 
+id last: 499    id curr: 977
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.0950971
+3 Track: 
+id last: 499    id curr: 978
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.145097
+3 Track: 
+id last: 499    id curr: 979
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.195097
+3 Track: 
+id last: 499    id curr: 980
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.2450969
+3 Track: 
+id last: 499    id curr: 981
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.2950971
+3 Track: 
+id last: 499    id curr: 982
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.3450971
+3 Track: 
+id last: 499    id curr: 983
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.395097
+3 Track: 
+id last: 499    id curr: 984
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.445097
+3 Track: 
+id last: 499    id curr: 985
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.4950972
+3 Track: 
+id last: 499    id curr: 986
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.5450969
+3 Track: 
+id last: 499    id curr: 987
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.5950971
+3 Track: 
+id last: 499    id curr: 988
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.645097
+3 Track: 
+id last: 499    id curr: 989
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.695097
+3 Track: 
+id last: 499    id curr: 990
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.7450969
+3 Track: 
+id last: 499    id curr: 991
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.7950971
+3 Track: 
+id last: 499    id curr: 992
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.8450971
+3 Track: 
+id last: 499    id curr: 993
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.895097
+3 Track: 
+id last: 499    id curr: 994
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.945097
+3 Track: 
+id last: 499    id curr: 995
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638201.9950972
+3 Track: 
+id last: 499    id curr: 996
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.0450969
+3 Track: 
+id last: 499    id curr: 997
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.0950971
+3 Track: 
+id last: 499    id curr: 998
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.145097
+3 Track: 
+id last: 499    id curr: 999
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.195097
+3 Track: 
+id last: 499    id curr: 1000
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.2450969
+3 Track: 
+id last: 499    id curr: 1001
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.2950971
+3 Track: 
+id last: 499    id curr: 1002
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.3450971
+3 Track: 
+id last: 499    id curr: 1003
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.395097
+3 Track: 
+id last: 499    id curr: 1004
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.445097
+3 Track: 
+id last: 499    id curr: 1005
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.4950972
+3 Track: 
+id last: 499    id curr: 1006
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.5450969
+3 Track: 
+id last: 499    id curr: 1007
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.5950971
+3 Track: 
+id last: 499    id curr: 1008
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.645097
+3 Track: 
+id last: 499    id curr: 1009
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.695097
+3 Track: 
+id last: 499    id curr: 1010
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.7450969
+3 Track: 
+id last: 499    id curr: 1011
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.7950971
+3 Track: 
+id last: 499    id curr: 1012
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.8450971
+3 Track: 
+id last: 499    id curr: 1013
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.895097
+3 Track: 
+id last: 499    id curr: 1014
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.945097
+3 Track: 
+id last: 499    id curr: 1015
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638202.9950972
+3 Track: 
+id last: 499    id curr: 1016
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.0450969
+3 Track: 
+id last: 499    id curr: 1017
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.0950971
+3 Track: 
+id last: 499    id curr: 1018
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.145097
+3 Track: 
+id last: 499    id curr: 1019
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.195097
+3 Track: 
+id last: 499    id curr: 1020
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.2450969
+3 Track: 
+id last: 499    id curr: 1021
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.2950971
+3 Track: 
+id last: 499    id curr: 1022
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.3450971
+3 Track: 
+id last: 499    id curr: 1023
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.395097
+3 Track: 
+id last: 499    id curr: 1024
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.445097
+3 Track: 
+id last: 499    id curr: 1025
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.4950972
+3 Track: 
+id last: 499    id curr: 1026
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.5450969
+3 Track: 
+id last: 499    id curr: 1027
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.5950971
+3 Track: 
+id last: 499    id curr: 1028
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.645097
+3 Track: 
+id last: 499    id curr: 1029
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.695097
+3 Track: 
+id last: 499    id curr: 1030
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.7450969
+3 Track: 
+id last: 499    id curr: 1031
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.7950971
+3 Track: 
+id last: 499    id curr: 1032
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.8450971
+3 Track: 
+id last: 499    id curr: 1033
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.895097
+3 Track: 
+id last: 499    id curr: 1034
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.945097
+3 Track: 
+id last: 499    id curr: 1035
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638203.9950972
+3 Track: 
+id last: 499    id curr: 1036
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.0450969
+3 Track: 
+id last: 499    id curr: 1037
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.0950971
+3 Track: 
+id last: 499    id curr: 1038
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.145097
+3 Track: 
+id last: 499    id curr: 1039
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.195097
+3 Track: 
+id last: 499    id curr: 1040
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.2450969
+3 Track: 
+id last: 499    id curr: 1041
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.2950971
+3 Track: 
+id last: 499    id curr: 1042
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.3450971
+3 Track: 
+id last: 499    id curr: 1043
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.395097
+3 Track: 
+id last: 499    id curr: 1044
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.445097
+3 Track: 
+id last: 499    id curr: 1045
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.4950972
+3 Track: 
+id last: 499    id curr: 1046
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.5450969
+3 Track: 
+id last: 499    id curr: 1047
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.5950971
+3 Track: 
+id last: 499    id curr: 1048
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.645097
+3 Track: 
+id last: 499    id curr: 1049
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.695097
+3 Track: 
+id last: 499    id curr: 1050
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.7450969
+3 Track: 
+id last: 499    id curr: 1051
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.7950971
+3 Track: 
+id last: 499    id curr: 1052
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.8450971
+3 Track: 
+id last: 499    id curr: 1053
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.895097
+3 Track: 
+id last: 499    id curr: 1054
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.945097
+3 Track: 
+id last: 499    id curr: 1055
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638204.9950972
+3 Track: 
+id last: 499    id curr: 1056
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.0450969
+3 Track: 
+id last: 499    id curr: 1057
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.0950971
+3 Track: 
+id last: 499    id curr: 1058
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.145097
+3 Track: 
+id last: 499    id curr: 1059
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.195097
+3 Track: 
+id last: 499    id curr: 1060
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.2450969
+3 Track: 
+id last: 499    id curr: 1061
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.2950971
+3 Track: 
+id last: 499    id curr: 1062
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.3450971
+3 Track: 
+id last: 499    id curr: 1063
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.395097
+3 Track: 
+id last: 499    id curr: 1064
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.445097
+3 Track: 
+id last: 499    id curr: 1065
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.4950972
+3 Track: 
+id last: 499    id curr: 1066
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.5450969
+3 Track: 
+id last: 499    id curr: 1067
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.5950971
+3 Track: 
+id last: 499    id curr: 1068
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.645097
+3 Track: 
+id last: 499    id curr: 1069
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.695097
+3 Track: 
+id last: 499    id curr: 1070
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.7450969
+3 Track: 
+id last: 499    id curr: 1071
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.7950971
+3 Track: 
+id last: 499    id curr: 1072
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.8450971
+3 Track: 
+id last: 499    id curr: 1073
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.895097
+3 Track: 
+id last: 499    id curr: 1074
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.945097
+3 Track: 
+id last: 499    id curr: 1075
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638205.9950972
+3 Track: 
+id last: 499    id curr: 1076
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.0450969
+3 Track: 
+id last: 499    id curr: 1077
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.0950971
+3 Track: 
+id last: 499    id curr: 1078
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.145097
+3 Track: 
+id last: 499    id curr: 1079
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.195097
+3 Track: 
+id last: 499    id curr: 1080
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.2450969
+3 Track: 
+id last: 499    id curr: 1081
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.2950971
+3 Track: 
+id last: 499    id curr: 1082
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.3450971
+3 Track: 
+id last: 499    id curr: 1083
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.395097
+3 Track: 
+id last: 499    id curr: 1084
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.445097
+3 Track: 
+id last: 499    id curr: 1085
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.4950972
+3 Track: 
+id last: 499    id curr: 1086
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.5450969
+3 Track: 
+id last: 499    id curr: 1087
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.5950971
+3 Track: 
+id last: 499    id curr: 1088
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.645097
+3 Track: 
+id last: 499    id curr: 1089
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.695097
+3 Track: 
+id last: 499    id curr: 1090
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.7450969
+3 Track: 
+id last: 499    id curr: 1091
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.7950971
+3 Track: 
+id last: 499    id curr: 1092
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.8450971
+3 Track: 
+id last: 499    id curr: 1093
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.895097
+3 Track: 
+id last: 499    id curr: 1094
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.945097
+3 Track: 
+id last: 499    id curr: 1095
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638206.9950972
+3 Track: 
+id last: 499    id curr: 1096
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.0450969
+3 Track: 
+id last: 499    id curr: 1097
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.0950971
+3 Track: 
+id last: 499    id curr: 1098
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.145097
+3 Track: 
+id last: 499    id curr: 1099
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.195097
+3 Track: 
+id last: 499    id curr: 1100
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.2450969
+3 Track: 
+id last: 499    id curr: 1101
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.2950971
+3 Track: 
+id last: 499    id curr: 1102
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.3450971
+3 Track: 
+id last: 499    id curr: 1103
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.395097
+3 Track: 
+id last: 499    id curr: 1104
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.445097
+3 Track: 
+id last: 499    id curr: 1105
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.4950972
+3 Track: 
+id last: 499    id curr: 1106
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.5450969
+3 Track: 
+id last: 499    id curr: 1107
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.5950971
+3 Track: 
+id last: 499    id curr: 1108
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.645097
+3 Track: 
+id last: 499    id curr: 1109
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.695097
+3 Track: 
+id last: 499    id curr: 1110
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.7450969
+3 Track: 
+id last: 499    id curr: 1111
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.7950971
+3 Track: 
+id last: 499    id curr: 1112
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.8450971
+3 Track: 
+id last: 499    id curr: 1113
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.895097
+3 Track: 
+id last: 499    id curr: 1114
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.945097
+3 Track: 
+id last: 499    id curr: 1115
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638207.9950972
+3 Track: 
+id last: 499    id curr: 1116
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.0450969
+3 Track: 
+id last: 499    id curr: 1117
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.0950971
+3 Track: 
+id last: 499    id curr: 1118
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.145097
+3 Track: 
+id last: 499    id curr: 1119
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.195097
+3 Track: 
+id last: 499    id curr: 1120
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.2450969
+3 Track: 
+id last: 499    id curr: 1121
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.2950971
+3 Track: 
+id last: 499    id curr: 1122
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.3450971
+3 Track: 
+id last: 499    id curr: 1123
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.395097
+3 Track: 
+id last: 499    id curr: 1124
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.445097
+3 Track: 
+id last: 499    id curr: 1125
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.4950972
+3 Track: 
+id last: 499    id curr: 1126
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.5450969
+3 Track: 
+id last: 499    id curr: 1127
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.5950971
+3 Track: 
+id last: 499    id curr: 1128
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.645097
+3 Track: 
+id last: 499    id curr: 1129
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.695097
+3 Track: 
+id last: 499    id curr: 1130
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.7450969
+3 Track: 
+id last: 499    id curr: 1131
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.7950971
+3 Track: 
+id last: 499    id curr: 1132
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.8450971
+3 Track: 
+id last: 499    id curr: 1133
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.895097
+3 Track: 
+id last: 499    id curr: 1134
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.945097
+3 Track: 
+id last: 499    id curr: 1135
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638208.9950972
+3 Track: 
+id last: 499    id curr: 1136
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.0450969
+3 Track: 
+id last: 499    id curr: 1137
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.0950971
+3 Track: 
+id last: 499    id curr: 1138
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.145097
+3 Track: 
+id last: 499    id curr: 1139
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.195097
+3 Track: 
+id last: 499    id curr: 1140
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.2450969
+3 Track: 
+id last: 499    id curr: 1141
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.2950971
+3 Track: 
+id last: 499    id curr: 1142
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.3450971
+3 Track: 
+id last: 499    id curr: 1143
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.395097
+3 Track: 
+id last: 499    id curr: 1144
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.445097
+3 Track: 
+id last: 499    id curr: 1145
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.4950972
+3 Track: 
+id last: 499    id curr: 1146
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.5450969
+3 Track: 
+id last: 499    id curr: 1147
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.5950971
+3 Track: 
+id last: 499    id curr: 1148
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.645097
+3 Track: 
+id last: 499    id curr: 1149
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.695097
+3 Track: 
+id last: 499    id curr: 1150
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.7450969
+3 Track: 
+id last: 499    id curr: 1151
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.7950971
+3 Track: 
+id last: 499    id curr: 1152
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.8450971
+3 Track: 
+id last: 499    id curr: 1153
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.895097
+3 Track: 
+id last: 499    id curr: 1154
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.945097
+3 Track: 
+id last: 499    id curr: 1155
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638209.9950972
+3 Track: 
+id last: 499    id curr: 1156
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.0450969
+3 Track: 
+id last: 499    id curr: 1157
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.0950971
+3 Track: 
+id last: 499    id curr: 1158
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.145097
+3 Track: 
+id last: 499    id curr: 1159
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.195097
+3 Track: 
+id last: 499    id curr: 1160
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.2450969
+3 Track: 
+id last: 499    id curr: 1161
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.2950971
+3 Track: 
+id last: 499    id curr: 1162
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.3450971
+3 Track: 
+id last: 499    id curr: 1163
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.395097
+3 Track: 
+id last: 499    id curr: 1164
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.445097
+3 Track: 
+id last: 499    id curr: 1165
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.4950972
+3 Track: 
+id last: 499    id curr: 1166
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.5450969
+3 Track: 
+id last: 499    id curr: 1167
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.5950971
+3 Track: 
+id last: 499    id curr: 1168
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.645097
+3 Track: 
+id last: 499    id curr: 1169
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.695097
+3 Track: 
+id last: 499    id curr: 1170
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.7450969
+3 Track: 
+id last: 499    id curr: 1171
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.7950971
+3 Track: 
+id last: 499    id curr: 1172
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.8450971
+3 Track: 
+id last: 499    id curr: 1173
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.895097
+3 Track: 
+id last: 499    id curr: 1174
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.945097
+3 Track: 
+id last: 499    id curr: 1175
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638210.9950972
+3 Track: 
+id last: 499    id curr: 1176
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.0450969
+3 Track: 
+id last: 499    id curr: 1177
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.0950971
+3 Track: 
+id last: 499    id curr: 1178
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.145097
+3 Track: 
+id last: 499    id curr: 1179
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.195097
+3 Track: 
+id last: 499    id curr: 1180
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.2450969
+3 Track: 
+id last: 499    id curr: 1181
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.2950971
+3 Track: 
+id last: 499    id curr: 1182
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.3450971
+3 Track: 
+id last: 499    id curr: 1183
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.395097
+3 Track: 
+id last: 499    id curr: 1184
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.445097
+3 Track: 
+id last: 499    id curr: 1185
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.4950972
+3 Track: 
+id last: 499    id curr: 1186
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.5450969
+3 Track: 
+id last: 499    id curr: 1187
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.5950971
+3 Track: 
+id last: 499    id curr: 1188
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.645097
+3 Track: 
+id last: 499    id curr: 1189
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.695097
+3 Track: 
+id last: 499    id curr: 1190
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.7450969
+3 Track: 
+id last: 499    id curr: 1191
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.7950971
+3 Track: 
+id last: 499    id curr: 1192
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.8450971
+3 Track: 
+id last: 499    id curr: 1193
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.895097
+3 Track: 
+id last: 499    id curr: 1194
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.945097
+3 Track: 
+id last: 499    id curr: 1195
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638211.9950972
+3 Track: 
+id last: 499    id curr: 1196
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.0450969
+3 Track: 
+id last: 499    id curr: 1197
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.0950971
+3 Track: 
+id last: 499    id curr: 1198
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.145097
+3 Track: 
+id last: 499    id curr: 1199
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.195097
+3 Track: 
+id last: 499    id curr: 1200
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.2450969
+3 Track: 
+id last: 499    id curr: 1201
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.2950971
+3 Track: 
+id last: 499    id curr: 1202
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.3450971
+3 Track: 
+id last: 499    id curr: 1203
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.395097
+3 Track: 
+id last: 499    id curr: 1204
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.445097
+3 Track: 
+id last: 499    id curr: 1205
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.4950972
+3 Track: 
+id last: 499    id curr: 1206
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.5450969
+3 Track: 
+id last: 499    id curr: 1207
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.5950971
+3 Track: 
+id last: 499    id curr: 1208
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.645097
+3 Track: 
+id last: 499    id curr: 1209
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.695097
+3 Track: 
+id last: 499    id curr: 1210
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.7450969
+3 Track: 
+id last: 499    id curr: 1211
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.7950971
+3 Track: 
+id last: 499    id curr: 1212
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.8450971
+3 Track: 
+id last: 499    id curr: 1213
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.895097
+3 Track: 
+id last: 499    id curr: 1214
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.945097
+3 Track: 
+id last: 499    id curr: 1215
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638212.9950972
+3 Track: 
+id last: 499    id curr: 1216
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.0450969
+3 Track: 
+id last: 499    id curr: 1217
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.0950971
+3 Track: 
+id last: 499    id curr: 1218
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.145097
+3 Track: 
+id last: 499    id curr: 1219
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.195097
+3 Track: 
+id last: 499    id curr: 1220
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.2450969
+3 Track: 
+id last: 499    id curr: 1221
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.2950971
+3 Track: 
+id last: 499    id curr: 1222
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.3450971
+3 Track: 
+id last: 499    id curr: 1223
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.395097
+3 Track: 
+id last: 499    id curr: 1224
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.445097
+3 Track: 
+id last: 499    id curr: 1225
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.4950972
+3 Track: 
+id last: 499    id curr: 1226
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.5450969
+3 Track: 
+id last: 499    id curr: 1227
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.5950971
+3 Track: 
+id last: 499    id curr: 1228
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.645097
+3 Track: 
+id last: 499    id curr: 1229
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.695097
+3 Track: 
+id last: 499    id curr: 1230
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.7450969
+3 Track: 
+id last: 499    id curr: 1231
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.7950971
+3 Track: 
+id last: 499    id curr: 1232
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.8450971
+3 Track: 
+id last: 499    id curr: 1233
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.895097
+3 Track: 
+id last: 499    id curr: 1234
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.945097
+3 Track: 
+id last: 499    id curr: 1235
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638213.9950972
+3 Track: 
+id last: 499    id curr: 1236
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.0450969
+3 Track: 
+id last: 499    id curr: 1237
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.0950971
+3 Track: 
+id last: 499    id curr: 1238
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.145097
+3 Track: 
+id last: 499    id curr: 1239
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.195097
+3 Track: 
+id last: 499    id curr: 1240
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.2450969
+3 Track: 
+id last: 499    id curr: 1241
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.2950971
+3 Track: 
+id last: 499    id curr: 1242
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.3450971
+3 Track: 
+id last: 499    id curr: 1243
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.395097
+3 Track: 
+id last: 499    id curr: 1244
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.445097
+3 Track: 
+id last: 499    id curr: 1245
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.4950972
+3 Track: 
+id last: 499    id curr: 1246
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.5450969
+3 Track: 
+id last: 499    id curr: 1247
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.5950971
+3 Track: 
+id last: 499    id curr: 1248
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.645097
+3 Track: 
+id last: 499    id curr: 1249
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.695097
+3 Track: 
+id last: 499    id curr: 1250
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.7450969
+3 Track: 
+id last: 499    id curr: 1251
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.7950971
+3 Track: 
+id last: 499    id curr: 1252
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.8450971
+3 Track: 
+id last: 499    id curr: 1253
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.895097
+3 Track: 
+id last: 499    id curr: 1254
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.945097
+3 Track: 
+id last: 499    id curr: 1255
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638214.9950972
+3 Track: 
+id last: 499    id curr: 1256
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.0450969
+3 Track: 
+id last: 499    id curr: 1257
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.0950971
+3 Track: 
+id last: 499    id curr: 1258
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.145097
+3 Track: 
+id last: 499    id curr: 1259
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.195097
+3 Track: 
+id last: 499    id curr: 1260
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.2450969
+3 Track: 
+id last: 499    id curr: 1261
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.2950971
+3 Track: 
+id last: 499    id curr: 1262
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.3450971
+3 Track: 
+id last: 499    id curr: 1263
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.395097
+3 Track: 
+id last: 499    id curr: 1264
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.445097
+3 Track: 
+id last: 499    id curr: 1265
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.4950972
+3 Track: 
+id last: 499    id curr: 1266
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.5450969
+3 Track: 
+id last: 499    id curr: 1267
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.5950971
+3 Track: 
+id last: 499    id curr: 1268
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.645097
+3 Track: 
+id last: 499    id curr: 1269
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.695097
+3 Track: 
+id last: 499    id curr: 1270
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.7450969
+3 Track: 
+id last: 499    id curr: 1271
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.7950971
+3 Track: 
+id last: 499    id curr: 1272
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.8450971
+3 Track: 
+id last: 499    id curr: 1273
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.895097
+3 Track: 
+id last: 499    id curr: 1274
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.945097
+3 Track: 
+id last: 499    id curr: 1275
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638215.9950972
+3 Track: 
+id last: 499    id curr: 1276
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.0450969
+3 Track: 
+id last: 499    id curr: 1277
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.0950971
+3 Track: 
+id last: 499    id curr: 1278
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.145097
+3 Track: 
+id last: 499    id curr: 1279
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.195097
+3 Track: 
+id last: 499    id curr: 1280
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.2450969
+3 Track: 
+id last: 499    id curr: 1281
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.2950971
+3 Track: 
+id last: 499    id curr: 1282
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.3450971
+3 Track: 
+id last: 499    id curr: 1283
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.395097
+3 Track: 
+id last: 499    id curr: 1284
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.445097
+3 Track: 
+id last: 499    id curr: 1285
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.4950972
+3 Track: 
+id last: 499    id curr: 1286
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.5450969
+3 Track: 
+id last: 499    id curr: 1287
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.5950971
+3 Track: 
+id last: 499    id curr: 1288
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.645097
+3 Track: 
+id last: 499    id curr: 1289
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.695097
+3 Track: 
+id last: 499    id curr: 1290
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.7450969
+3 Track: 
+id last: 499    id curr: 1291
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.7950971
+3 Track: 
+id last: 499    id curr: 1292
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.8450971
+3 Track: 
+id last: 499    id curr: 1293
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.895097
+3 Track: 
+id last: 499    id curr: 1294
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.945097
+3 Track: 
+id last: 499    id curr: 1295
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638216.9950972
+3 Track: 
+id last: 499    id curr: 1296
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.0450969
+3 Track: 
+id last: 499    id curr: 1297
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.0950971
+3 Track: 
+id last: 499    id curr: 1298
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.145097
+3 Track: 
+id last: 499    id curr: 1299
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.195097
+3 Track: 
+id last: 499    id curr: 1300
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.2450969
+3 Track: 
+id last: 499    id curr: 1301
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.2950971
+3 Track: 
+id last: 499    id curr: 1302
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.3450971
+3 Track: 
+id last: 499    id curr: 1303
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.395097
+3 Track: 
+id last: 499    id curr: 1304
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.445097
+3 Track: 
+id last: 499    id curr: 1305
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.4950972
+3 Track: 
+id last: 499    id curr: 1306
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.5450969
+3 Track: 
+id last: 499    id curr: 1307
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.5950971
+3 Track: 
+id last: 499    id curr: 1308
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.645097
+3 Track: 
+id last: 499    id curr: 1309
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.695097
+3 Track: 
+id last: 499    id curr: 1310
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.7450969
+3 Track: 
+id last: 499    id curr: 1311
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.7950971
+3 Track: 
+id last: 499    id curr: 1312
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.8450971
+3 Track: 
+id last: 499    id curr: 1313
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.895097
+3 Track: 
+id last: 499    id curr: 1314
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.945097
+3 Track: 
+id last: 499    id curr: 1315
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638217.9950972
+3 Track: 
+id last: 499    id curr: 1316
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.0450969
+3 Track: 
+id last: 499    id curr: 1317
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.0950971
+3 Track: 
+id last: 499    id curr: 1318
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.145097
+3 Track: 
+id last: 499    id curr: 1319
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.195097
+3 Track: 
+id last: 499    id curr: 1320
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.2450969
+3 Track: 
+id last: 499    id curr: 1321
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.2950971
+3 Track: 
+id last: 499    id curr: 1322
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.3450971
+3 Track: 
+id last: 499    id curr: 1323
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.395097
+3 Track: 
+id last: 499    id curr: 1324
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.445097
+3 Track: 
+id last: 499    id curr: 1325
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.4950972
+3 Track: 
+id last: 499    id curr: 1326
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.5450969
+3 Track: 
+id last: 499    id curr: 1327
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.5950971
+3 Track: 
+id last: 499    id curr: 1328
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.645097
+3 Track: 
+id last: 499    id curr: 1329
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.695097
+3 Track: 
+id last: 499    id curr: 1330
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.7450969
+3 Track: 
+id last: 499    id curr: 1331
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.7950971
+3 Track: 
+id last: 499    id curr: 1332
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.8450971
+3 Track: 
+id last: 499    id curr: 1333
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.895097
+3 Track: 
+id last: 499    id curr: 1334
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.945097
+3 Track: 
+id last: 499    id curr: 1335
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638218.9950972
+3 Track: 
+id last: 499    id curr: 1336
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.0450969
+3 Track: 
+id last: 499    id curr: 1337
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.0950971
+3 Track: 
+id last: 499    id curr: 1338
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.145097
+3 Track: 
+id last: 499    id curr: 1339
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.195097
+3 Track: 
+id last: 499    id curr: 1340
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.2450969
+3 Track: 
+id last: 499    id curr: 1341
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.2950971
+3 Track: 
+id last: 499    id curr: 1342
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.3450971
+3 Track: 
+id last: 499    id curr: 1343
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.395097
+3 Track: 
+id last: 499    id curr: 1344
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.445097
+3 Track: 
+id last: 499    id curr: 1345
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.4950972
+3 Track: 
+id last: 499    id curr: 1346
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.5450969
+3 Track: 
+id last: 499    id curr: 1347
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.5950971
+3 Track: 
+id last: 499    id curr: 1348
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.645097
+3 Track: 
+id last: 499    id curr: 1349
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.695097
+3 Track: 
+id last: 499    id curr: 1350
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.7450969
+3 Track: 
+id last: 499    id curr: 1351
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.7950971
+3 Track: 
+id last: 499    id curr: 1352
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.8450971
+3 Track: 
+id last: 499    id curr: 1353
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.895097
+3 Track: 
+id last: 499    id curr: 1354
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.945097
+3 Track: 
+id last: 499    id curr: 1355
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638219.9950972
+3 Track: 
+id last: 499    id curr: 1356
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.0450969
+3 Track: 
+id last: 499    id curr: 1357
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.0950971
+3 Track: 
+id last: 499    id curr: 1358
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.145097
+3 Track: 
+id last: 499    id curr: 1359
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.195097
+3 Track: 
+id last: 499    id curr: 1360
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.2450969
+3 Track: 
+id last: 499    id curr: 1361
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.2950971
+3 Track: 
+id last: 499    id curr: 1362
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.3450971
+3 Track: 
+id last: 499    id curr: 1363
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.395097
+3 Track: 
+id last: 499    id curr: 1364
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.445097
+3 Track: 
+id last: 499    id curr: 1365
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.4950972
+3 Track: 
+id last: 499    id curr: 1366
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.5450969
+3 Track: 
+id last: 499    id curr: 1367
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.5950971
+3 Track: 
+id last: 499    id curr: 1368
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.645097
+3 Track: 
+id last: 499    id curr: 1369
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.695097
+3 Track: 
+id last: 499    id curr: 1370
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.7450969
+3 Track: 
+id last: 499    id curr: 1371
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.7950971
+3 Track: 
+id last: 499    id curr: 1372
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.8450971
+3 Track: 
+id last: 499    id curr: 1373
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.895097
+3 Track: 
+id last: 499    id curr: 1374
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.945097
+3 Track: 
+id last: 499    id curr: 1375
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638220.9950972
+3 Track: 
+id last: 499    id curr: 1376
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.0450969
+3 Track: 
+id last: 499    id curr: 1377
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.0950971
+3 Track: 
+id last: 499    id curr: 1378
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.145097
+3 Track: 
+id last: 499    id curr: 1379
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.195097
+3 Track: 
+id last: 499    id curr: 1380
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.2450969
+3 Track: 
+id last: 499    id curr: 1381
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.2950971
+3 Track: 
+id last: 499    id curr: 1382
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.3450971
+3 Track: 
+id last: 499    id curr: 1383
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.395097
+3 Track: 
+id last: 499    id curr: 1384
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.445097
+3 Track: 
+id last: 499    id curr: 1385
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.4950972
+3 Track: 
+id last: 499    id curr: 1386
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.5450969
+3 Track: 
+id last: 499    id curr: 1387
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.5950971
+3 Track: 
+id last: 499    id curr: 1388
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.645097
+3 Track: 
+id last: 499    id curr: 1389
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.695097
+3 Track: 
+id last: 499    id curr: 1390
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.7450969
+3 Track: 
+id last: 499    id curr: 1391
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.7950971
+3 Track: 
+id last: 499    id curr: 1392
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.8450971
+3 Track: 
+id last: 499    id curr: 1393
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.895097
+3 Track: 
+id last: 499    id curr: 1394
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.945097
+3 Track: 
+id last: 499    id curr: 1395
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638221.9950972
+3 Track: 
+id last: 499    id curr: 1396
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.0450969
+3 Track: 
+id last: 499    id curr: 1397
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.0950971
+3 Track: 
+id last: 499    id curr: 1398
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.145097
+3 Track: 
+id last: 499    id curr: 1399
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.195097
+3 Track: 
+id last: 499    id curr: 1400
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.2450969
+3 Track: 
+id last: 499    id curr: 1401
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.2950971
+3 Track: 
+id last: 499    id curr: 1402
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.3450971
+3 Track: 
+id last: 499    id curr: 1403
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.395097
+3 Track: 
+id last: 499    id curr: 1404
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.445097
+3 Track: 
+id last: 499    id curr: 1405
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.4950972
+3 Track: 
+id last: 499    id curr: 1406
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.5450969
+3 Track: 
+id last: 499    id curr: 1407
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.5950971
+3 Track: 
+id last: 499    id curr: 1408
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.645097
+3 Track: 
+id last: 499    id curr: 1409
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.695097
+3 Track: 
+id last: 499    id curr: 1410
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.7450969
+3 Track: 
+id last: 499    id curr: 1411
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.7950971
+3 Track: 
+id last: 499    id curr: 1412
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.8450971
+3 Track: 
+id last: 499    id curr: 1413
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.895097
+3 Track: 
+id last: 499    id curr: 1414
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.945097
+3 Track: 
+id last: 499    id curr: 1415
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638222.9950972
+3 Track: 
+id last: 499    id curr: 1416
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.0450969
+3 Track: 
+id last: 499    id curr: 1417
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.0950971
+3 Track: 
+id last: 499    id curr: 1418
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.145097
+3 Track: 
+id last: 499    id curr: 1419
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.195097
+3 Track: 
+id last: 499    id curr: 1420
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.2450969
+3 Track: 
+id last: 499    id curr: 1421
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.2950971
+3 Track: 
+id last: 499    id curr: 1422
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.3450971
+3 Track: 
+id last: 499    id curr: 1423
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.395097
+3 Track: 
+id last: 499    id curr: 1424
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.445097
+3 Track: 
+id last: 499    id curr: 1425
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.4950972
+3 Track: 
+id last: 499    id curr: 1426
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.5450969
+3 Track: 
+id last: 499    id curr: 1427
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.5950971
+3 Track: 
+id last: 499    id curr: 1428
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.645097
+3 Track: 
+id last: 499    id curr: 1429
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.695097
+3 Track: 
+id last: 499    id curr: 1430
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.7450969
+3 Track: 
+id last: 499    id curr: 1431
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.7950971
+3 Track: 
+id last: 499    id curr: 1432
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.8450971
+3 Track: 
+id last: 499    id curr: 1433
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.895097
+3 Track: 
+id last: 499    id curr: 1434
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.945097
+3 Track: 
+id last: 499    id curr: 1435
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638223.9950972
+3 Track: 
+id last: 499    id curr: 1436
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.0450969
+3 Track: 
+id last: 499    id curr: 1437
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.0950971
+3 Track: 
+id last: 499    id curr: 1438
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.145097
+3 Track: 
+id last: 499    id curr: 1439
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.195097
+3 Track: 
+id last: 499    id curr: 1440
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.2450969
+3 Track: 
+id last: 499    id curr: 1441
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.2950971
+3 Track: 
+id last: 499    id curr: 1442
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.3450971
+3 Track: 
+id last: 499    id curr: 1443
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.395097
+3 Track: 
+id last: 499    id curr: 1444
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.445097
+3 Track: 
+id last: 499    id curr: 1445
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.4950972
+3 Track: 
+id last: 499    id curr: 1446
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.5450969
+3 Track: 
+id last: 499    id curr: 1447
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.5950971
+3 Track: 
+id last: 499    id curr: 1448
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.645097
+3 Track: 
+id last: 499    id curr: 1449
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.695097
+3 Track: 
+id last: 499    id curr: 1450
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.7450969
+3 Track: 
+id last: 499    id curr: 1451
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.7950971
+3 Track: 
+id last: 499    id curr: 1452
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.8450971
+3 Track: 
+id last: 499    id curr: 1453
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.895097
+3 Track: 
+id last: 499    id curr: 1454
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.945097
+3 Track: 
+id last: 499    id curr: 1455
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638224.9950972
+3 Track: 
+id last: 499    id curr: 1456
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.0450969
+3 Track: 
+id last: 499    id curr: 1457
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.0950971
+3 Track: 
+id last: 499    id curr: 1458
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.145097
+3 Track: 
+id last: 499    id curr: 1459
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.195097
+3 Track: 
+id last: 499    id curr: 1460
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.2450969
+3 Track: 
+id last: 499    id curr: 1461
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.2950971
+3 Track: 
+id last: 499    id curr: 1462
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.3450971
+3 Track: 
+id last: 499    id curr: 1463
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.395097
+3 Track: 
+id last: 499    id curr: 1464
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.445097
+3 Track: 
+id last: 499    id curr: 1465
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.4950972
+3 Track: 
+id last: 499    id curr: 1466
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.5450969
+3 Track: 
+id last: 499    id curr: 1467
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.5950971
+3 Track: 
+id last: 499    id curr: 1468
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.645097
+3 Track: 
+id last: 499    id curr: 1469
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.695097
+3 Track: 
+id last: 499    id curr: 1470
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.7450969
+3 Track: 
+id last: 499    id curr: 1471
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.7950971
+3 Track: 
+id last: 499    id curr: 1472
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.8450971
+3 Track: 
+id last: 499    id curr: 1473
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.895097
+3 Track: 
+id last: 499    id curr: 1474
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.945097
+3 Track: 
+id last: 499    id curr: 1475
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638225.9950972
+3 Track: 
+id last: 499    id curr: 1476
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.0450969
+3 Track: 
+id last: 499    id curr: 1477
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.0950971
+3 Track: 
+id last: 499    id curr: 1478
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.145097
+3 Track: 
+id last: 499    id curr: 1479
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.195097
+3 Track: 
+id last: 499    id curr: 1480
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.2450969
+3 Track: 
+id last: 499    id curr: 1481
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.2950971
+3 Track: 
+id last: 499    id curr: 1482
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.3450971
+3 Track: 
+id last: 499    id curr: 1483
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.395097
+3 Track: 
+id last: 499    id curr: 1484
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.445097
+3 Track: 
+id last: 499    id curr: 1485
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.4950972
+3 Track: 
+id last: 499    id curr: 1486
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.5450969
+3 Track: 
+id last: 499    id curr: 1487
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.5950971
+3 Track: 
+id last: 499    id curr: 1488
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.645097
+3 Track: 
+id last: 499    id curr: 1489
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.695097
+3 Track: 
+id last: 499    id curr: 1490
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.7450969
+3 Track: 
+id last: 499    id curr: 1491
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.7950971
+3 Track: 
+id last: 499    id curr: 1492
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.8450971
+3 Track: 
+id last: 499    id curr: 1493
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.895097
+3 Track: 
+id last: 499    id curr: 1494
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.945097
+3 Track: 
+id last: 499    id curr: 1495
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638226.9950972
+3 Track: 
+id last: 499    id curr: 1496
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.0450969
+3 Track: 
+id last: 499    id curr: 1497
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.0950971
+3 Track: 
+id last: 499    id curr: 1498
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.145097
+3 Track: 
+id last: 499    id curr: 1499
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.195097
+3 Track: 
+id last: 499    id curr: 1500
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.2450969
+3 Track: 
+id last: 499    id curr: 1501
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.2950971
+3 Track: 
+id last: 499    id curr: 1502
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.3450971
+3 Track: 
+id last: 499    id curr: 1503
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.395097
+3 Track: 
+id last: 499    id curr: 1504
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.445097
+3 Track: 
+id last: 499    id curr: 1505
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.4950972
+3 Track: 
+id last: 499    id curr: 1506
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.5450969
+3 Track: 
+id last: 499    id curr: 1507
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.5950971
+3 Track: 
+id last: 499    id curr: 1508
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.645097
+3 Track: 
+id last: 499    id curr: 1509
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.695097
+3 Track: 
+id last: 499    id curr: 1510
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.7450969
+3 Track: 
+id last: 499    id curr: 1511
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.7950971
+3 Track: 
+id last: 499    id curr: 1512
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.8450971
+3 Track: 
+id last: 499    id curr: 1513
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.895097
+3 Track: 
+id last: 499    id curr: 1514
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.945097
+3 Track: 
+id last: 499    id curr: 1515
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638227.9950972
+3 Track: 
+id last: 499    id curr: 1516
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.0450969
+3 Track: 
+id last: 499    id curr: 1517
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.0950971
+3 Track: 
+id last: 499    id curr: 1518
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.145097
+3 Track: 
+id last: 499    id curr: 1519
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.195097
+3 Track: 
+id last: 499    id curr: 1520
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.2450969
+3 Track: 
+id last: 499    id curr: 1521
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.2950971
+3 Track: 
+id last: 499    id curr: 1522
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.3450971
+3 Track: 
+id last: 499    id curr: 1523
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.395097
+3 Track: 
+id last: 499    id curr: 1524
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.445097
+3 Track: 
+id last: 499    id curr: 1525
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.4950972
+3 Track: 
+id last: 499    id curr: 1526
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.5450969
+3 Track: 
+id last: 499    id curr: 1527
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.5950971
+3 Track: 
+id last: 499    id curr: 1528
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.645097
+3 Track: 
+id last: 499    id curr: 1529
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.695097
+3 Track: 
+id last: 499    id curr: 1530
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.7450969
+3 Track: 
+id last: 499    id curr: 1531
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.7950971
+3 Track: 
+id last: 499    id curr: 1532
+mLastFrame.mTimeStamp: 1403638152.195097    mCurrentFrame.mTimeStamp: 1403638228.8450971
+3 Track: 
+
+Enter the name of the file if you want to save the current Atlas session. To exit press ENTER: 

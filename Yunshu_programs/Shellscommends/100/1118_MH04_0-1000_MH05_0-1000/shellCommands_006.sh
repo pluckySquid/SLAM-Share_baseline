@@ -1,0 +1,42 @@
+#!/bin/bash
+pathDatasetEuroc='/home/ucrnet/Desktop/workspace/slamdata' #Example, it is necesary to change it by the dataset path
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+shellCommands_006 | ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml "$pathDatasetEuroc"/MH04 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH04_9_100.txt "$pathDatasetEuroc"/MH05 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH05_6_100.txt dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_000
+python2 evaluation/evaluate_ate_scale_color_final_markBoth_Online_multipleRun.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_000.txt --plot kf_dataset-MH0405-100_006000.pdf 9 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH04.txt 6 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH05.txt
+
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+shellCommands_006 | ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml "$pathDatasetEuroc"/MH04 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH04_9_100.txt "$pathDatasetEuroc"/MH05 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH05_6_100.txt dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_001
+python2 evaluation/evaluate_ate_scale_color_final_markBoth_Online_multipleRun.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_001.txt --plot kf_dataset-MH0405-100_006001.pdf 9 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH04.txt 6 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH05.txt
+
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+shellCommands_006 | ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml "$pathDatasetEuroc"/MH04 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH04_9_100.txt "$pathDatasetEuroc"/MH05 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH05_6_100.txt dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_002
+python2 evaluation/evaluate_ate_scale_color_final_markBoth_Online_multipleRun.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_002.txt --plot kf_dataset-MH0405-100_006002.pdf 9 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH04.txt 6 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH05.txt
+
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+shellCommands_006 | ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml "$pathDatasetEuroc"/MH04 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH04_9_100.txt "$pathDatasetEuroc"/MH05 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH05_6_100.txt dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_003
+python2 evaluation/evaluate_ate_scale_color_final_markBoth_Online_multipleRun.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_003.txt --plot kf_dataset-MH0405-100_006003.pdf 9 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH04.txt 6 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH05.txt
+
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+shellCommands_006 | ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml "$pathDatasetEuroc"/MH04 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH04_9_100.txt "$pathDatasetEuroc"/MH05 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH05_6_100.txt dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_004
+python2 evaluation/evaluate_ate_scale_color_final_markBoth_Online_multipleRun.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_004.txt --plot kf_dataset-MH0405-100_006004.pdf 9 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH04.txt 6 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH05.txt
+
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+shellCommands_006 | ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml "$pathDatasetEuroc"/MH04 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH04_9_100.txt "$pathDatasetEuroc"/MH05 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH05_6_100.txt dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_005
+python2 evaluation/evaluate_ate_scale_color_final_markBoth_Online_multipleRun.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_005.txt --plot kf_dataset-MH0405-100_006005.pdf 9 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH04.txt 6 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH05.txt
+
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+shellCommands_006 | ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml "$pathDatasetEuroc"/MH04 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH04_9_100.txt "$pathDatasetEuroc"/MH05 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH05_6_100.txt dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_006
+python2 evaluation/evaluate_ate_scale_color_final_markBoth_Online_multipleRun.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_006.txt --plot kf_dataset-MH0405-100_006006.pdf 9 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH04.txt 6 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH05.txt
+
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+shellCommands_006 | ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml "$pathDatasetEuroc"/MH04 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH04_9_100.txt "$pathDatasetEuroc"/MH05 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH05_6_100.txt dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_007
+python2 evaluation/evaluate_ate_scale_color_final_markBoth_Online_multipleRun.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_007.txt --plot kf_dataset-MH0405-100_006007.pdf 9 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH04.txt 6 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH05.txt
+
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+shellCommands_006 | ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml "$pathDatasetEuroc"/MH04 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH04_9_100.txt "$pathDatasetEuroc"/MH05 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH05_6_100.txt dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_008
+python2 evaluation/evaluate_ate_scale_color_final_markBoth_Online_multipleRun.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_008.txt --plot kf_dataset-MH0405-100_006008.pdf 9 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH04.txt 6 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH05.txt
+
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+shellCommands_006 | ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml "$pathDatasetEuroc"/MH04 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH04_9_100.txt "$pathDatasetEuroc"/MH05 ./Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/MH05_6_100.txt dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_009
+python2 evaluation/evaluate_ate_scale_color_final_markBoth_Online_multipleRun.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_dataset-MH0405-1118_MH04_0-1000_MH05_0-1000_006_009.txt --plot kf_dataset-MH0405-100_006009.pdf 9 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH04.txt 6 Yunshu_Results/1118_MH04_0-1000_MH05_0-1000/deletedResults2/missingFramesFile_MH05.txt
+

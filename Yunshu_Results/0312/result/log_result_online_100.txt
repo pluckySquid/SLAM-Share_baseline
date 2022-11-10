@@ -1,0 +1,4 @@
+total keyframes: 119
+absolute_translational_error.rmse 0.590055 m
+total keyframes: 113
+absolute_translational_error.rmse 0.085814 m

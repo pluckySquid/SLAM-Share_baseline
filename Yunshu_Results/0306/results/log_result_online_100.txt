@@ -1,0 +1,16 @@
+oVERLAP
+absolute_translational_error.rmse 0.082318 m  -- 02
+absolute_translational_error.rmse 0.138499 m    --30 RED; 26BLUE
+absolute_translational_error.rmse 0.212135 m    --33 RED; 37BLUE
+absolute_translational_error.rmse 0.076227 m    --28 RED; 36BLUE
+absolute_translational_error.rmse 0.247870 m    --37 RED; 38 BLUE
+absolute_translational_error.rmse 0.305510 m    --38 RED; 43 BLUE
+absolute_translational_error.rmse 0.335415 m    --37 RED; 42 BLUE
+absolute_translational_error.rmse 0.254689 m    --40 RED; 47 BLUE
+absolute_translational_error.rmse 0.142917 m    --37 RED; 45 BLUE
+absolute_translational_error.rmse 0.132914 m
+absolute_translational_error.rmse 0.127292 m
+absolute_translational_error.rmse 0.359295 m
+absolute_translational_error.rmse 0.120345 m
+absolute_translational_error.rmse 0.042465 m
+absolute_translational_error.rmse 0.287238 m

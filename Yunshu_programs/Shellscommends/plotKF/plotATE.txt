@@ -1,0 +1,61 @@
+#!/bin/bash
+pathDatasetEuroc='/home/ucrnet/Desktop/workspace/slamdata/'
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_000_000.txt --plot kf_smallmapResult_000_000.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_001_002.txt --plot kf_smallmapResult_001_002.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_001_004.txt --plot kf_smallmapResult_001_004.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_001_006.txt --plot kf_smallmapResult_001_006.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_002_004.txt --plot kf_smallmapResult_002_004.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_002_006.txt --plot kf_smallmapResult_002_006.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_003_001.txt --plot kf_smallmapResult_003_001.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_003_005.txt --plot kf_smallmapResult_003_005.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_004_005.txt --plot kf_smallmapResult_004_005.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_004_006.txt --plot kf_smallmapResult_004_006.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_005_001.txt --plot kf_smallmapResult_005_001.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_005_003.txt --plot kf_smallmapResult_005_003.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_005_011.txt --plot kf_smallmapResult_005_011.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_005_013.txt --plot kf_smallmapResult_005_013.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_005_014.txt --plot kf_smallmapResult_005_014.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_006_003.txt --plot kf_smallmapResult_006_003.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_006_004.txt --plot kf_smallmapResult_006_004.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_006_008.txt --plot kf_smallmapResult_006_008.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_006_009.txt --plot kf_smallmapResult_006_009.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_006_012.txt --plot kf_smallmapResult_006_012.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_006_013.txt --plot kf_smallmapResult_006_013.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_006_014.txt --plot kf_smallmapResult_006_014.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_007_001.txt --plot kf_smallmapResult_007_001.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_007_014.txt --plot kf_smallmapResult_007_014.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_007_017.txt --plot kf_smallmapResult_007_017.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_008_004.txt --plot kf_smallmapResult_008_004.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_008_005.txt --plot kf_smallmapResult_008_005.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_008_011.txt --plot kf_smallmapResult_008_011.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/
+python2 evaluation/evaluate_ate_scale_color_MarkAll.py evaluation/Ground_truth/EuRoC_left_cam/merged_GT_samples.txt kf_smallmapResult_008_014.txt --plot kf_smallmapResult_008_014.txt.pdf 
+cd /home/ucrnet/Desktop/workspace/ORBSLAM3/

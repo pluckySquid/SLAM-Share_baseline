@@ -1,0 +1,12 @@
+<open file '/home/ucrnet/Desktop/workspace/ORBSLAM3/Yunshu_Results/onlineResults/1kMH04+1kMH05/keyFrameResults_ONLINE_100_MH04_0-1000_MH05_0-1000.txt', mode 'r' at 0x7f96dd798270>:
+	18.02
+
+<open file '/home/ucrnet/Desktop/workspace/ORBSLAM3/Yunshu_Results/onlineResults/1kMH04+1kMH05/keyFrameResults_ONLINE_100_MH04_0-1000_MH05_1000-2000.txt', mode 'r' at 0x7f96dd798270>:
+	20.63
+
+<open file '/home/ucrnet/Desktop/workspace/ORBSLAM3/Yunshu_Results/onlineResults/1kMH04+1kMH05/keyFrameResults_ONLINE_100_MH04_1000-2000_MH05_0-1000.txt', mode 'r' at 0x7f96dd798270>:
+	24.24
+
+<open file '/home/ucrnet/Desktop/workspace/ORBSLAM3/Yunshu_Results/onlineResults/1kMH04+1kMH05/keyFrameResults_ONLINE_100_MH04_1000-2000_MH05_1000-2000.txt', mode 'r' at 0x7f96dd798270>:
+	24.1
+

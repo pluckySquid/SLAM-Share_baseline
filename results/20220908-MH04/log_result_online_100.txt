@@ -1,0 +1,13 @@
+absolute_translational_error.rmse 0.023119 m
+absolute_translational_error.rmse 0.028097 m
+absolute_translational_error.rmse 0.022820 m
+absolute_translational_error.rmse 0.032723 m
+absolute_translational_error.rmse 0.175925 m
+absolute_translational_error.rmse 0.078895 m
+absolute_translational_error.rmse 0.074796 m
+absolute_translational_error.rmse 0.081237 m
+absolute_translational_error.rmse 0.193628 m
+absolute_translational_error.rmse 0.122878 m
+absolute_translational_error.rmse 0.068382 m
+absolute_translational_error.rmse 0.354190 m
+absolute_translational_error.rmse 0.075656 m

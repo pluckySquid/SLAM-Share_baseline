@@ -1,0 +1,526 @@
+Merging two maps, first load start time at: 1664817169925768
+Before Loading atlas: start0: 1664817169925915
+After Loading atlas deserialization: end0: 1664817169947359
+Load atlas deserialization time: 21444
+Merging two maps, first load finish time at: 1664817170304582
+Merging two maps, first loading takes: 378814
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 64850
+Keyframe ID of merge: 89
+mergeEnd time is: 1664817175510675
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 38698
+Keyframe ID of merge: 90
+mergeEnd time is: 1664817175554533
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 5356
+Keyframe ID of merge: 91
+mergeEnd time is: 1664817175633150
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 9111
+Keyframe ID of merge: 92
+mergeEnd time is: 1664817175723652
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 2829
+Keyframe ID of merge: 93
+mergeEnd time is: 1664817175846410
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 13499
+Keyframe ID of merge: 94
+mergeEnd time is: 1664817175961517
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 8923
+Keyframe ID of merge: 95
+mergeEnd time is: 1664817176099584
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 6970
+Keyframe ID of merge: 96
+mergeEnd time is: 1664817176244619
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 3189
+Keyframe ID of merge: 97
+mergeEnd time is: 1664817176395582
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 19531
+Keyframe ID of merge: 98
+mergeEnd time is: 1664817176756955
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 15459
+Keyframe ID of merge: 99
+mergeEnd time is: 1664817176918136
+-------check1  if(mpLastCurrentKF): 1
+-------check2  if(NewDetectCommonRegions()) 64941
+-------check3  if(mbMergeDetected) 0
+-------check6  new thread( 0
+-------check4 MergeLocal()) 228814
+-------check5 if(mbLoopDetected) 0
+This thread's loopclosing entire merging time is: 294075
+Keyframe ID of merge: 100
+mergeEnd time is: 1664817177529235
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 39887
+Keyframe ID of merge: 101
+mergeEnd time is: 1664817178182054
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 30540
+Keyframe ID of merge: 102
+mergeEnd time is: 1664817178582612
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 7136
+Keyframe ID of merge: 103
+mergeEnd time is: 1664817179086534
+Merging two maps, first load start time at: 1664817193433763
+Before Loading atlas: start0: 1664817193433906
+After Loading atlas deserialization: end0: 1664817193452931
+Load atlas deserialization time: 19025
+Merging two maps, first load finish time at: 1664817193715669
+Merging two maps, first loading takes: 281906
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 38429
+Keyframe ID of merge: 89
+mergeEnd time is: 1664817198694145
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 55167
+Keyframe ID of merge: 90
+mergeEnd time is: 1664817198769704
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 92148
+Keyframe ID of merge: 91
+mergeEnd time is: 1664817199420107
+-------check1  if(mpLastCurrentKF): 4
+This thread's loopclosing entire merging time is: 94666
+Keyframe ID of merge: 92
+mergeEnd time is: 1664817199522164
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 7788
+Keyframe ID of merge: 93
+mergeEnd time is: 1664817199612548
+-------check1  if(mpLastCurrentKF): 2
+This thread's loopclosing entire merging time is: 8981
+Keyframe ID of merge: 94
+mergeEnd time is: 1664817199832187
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 13682
+Keyframe ID of merge: 95
+mergeEnd time is: 1664817199991298
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 14101
+Keyframe ID of merge: 96
+mergeEnd time is: 1664817200106595
+-------check1  if(mpLastCurrentKF): 2
+This thread's loopclosing entire merging time is: 5726
+Keyframe ID of merge: 97
+mergeEnd time is: 1664817200279167
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 8012
+Keyframe ID of merge: 98
+mergeEnd time is: 1664817200467766
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 10071
+Keyframe ID of merge: 99
+mergeEnd time is: 1664817200702645
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 19519
+Keyframe ID of merge: 100
+mergeEnd time is: 1664817201404983
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 7606
+Keyframe ID of merge: 101
+mergeEnd time is: 1664817201881187
+-------check1  if(mpLastCurrentKF): 2
+-------check2  if(NewDetectCommonRegions()) 51135
+-------check3  if(mbMergeDetected) 0
+-------check6  new thread( 0
+-------check4 MergeLocal()) 503189
+-------check5 if(mbLoopDetected) 0
+This thread's loopclosing entire merging time is: 554561
+Keyframe ID of merge: 102
+mergeEnd time is: 1664817202736021
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 6426
+Keyframe ID of merge: 103
+mergeEnd time is: 1664817202747532
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 33183
+Keyframe ID of merge: 104
+mergeEnd time is: 1664817203258092
+Merging two maps, first load start time at: 1664817217965048
+Before Loading atlas: start0: 1664817217965178
+After Loading atlas deserialization: end0: 1664817217986808
+Load atlas deserialization time: 21630
+Merging two maps, first load finish time at: 1664817218355801
+Merging two maps, first loading takes: 390753
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 97842
+Keyframe ID of merge: 89
+mergeEnd time is: 1664817223900352
+-------check1  if(mpLastCurrentKF): 2
+This thread's loopclosing entire merging time is: 68074
+Keyframe ID of merge: 90
+mergeEnd time is: 1664817223973757
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 2986
+Keyframe ID of merge: 91
+mergeEnd time is: 1664817224060421
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 3023
+Keyframe ID of merge: 92
+mergeEnd time is: 1664817224168647
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 8193
+Keyframe ID of merge: 93
+mergeEnd time is: 1664817224294175
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 3033
+Keyframe ID of merge: 94
+mergeEnd time is: 1664817224456676
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 15894
+Keyframe ID of merge: 95
+mergeEnd time is: 1664817224616341
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 12800
+Keyframe ID of merge: 96
+mergeEnd time is: 1664817224778094
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 20102
+Keyframe ID of merge: 97
+mergeEnd time is: 1664817225125837
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 17817
+Keyframe ID of merge: 98
+mergeEnd time is: 1664817225401709
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 3008
+Keyframe ID of merge: 99
+mergeEnd time is: 1664817225555673
+-------check1  if(mpLastCurrentKF): 2
+-------check2  if(NewDetectCommonRegions()) 61479
+-------check3  if(mbMergeDetected) 0
+-------check6  new thread( 0
+-------check4 MergeLocal()) 284356
+-------check5 if(mbLoopDetected) 0
+This thread's loopclosing entire merging time is: 346114
+Keyframe ID of merge: 100
+mergeEnd time is: 1664817226077610
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 26503
+Keyframe ID of merge: 101
+mergeEnd time is: 1664817227218161
+-------check1  if(mpLastCurrentKF): 3
+This thread's loopclosing entire merging time is: 13557
+Keyframe ID of merge: 102
+mergeEnd time is: 1664817228499015
+-------check1  if(mpLastCurrentKF): 4
+This thread's loopclosing entire merging time is: 6186
+Keyframe ID of merge: 103
+mergeEnd time is: 1664817229961369
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 10966
+Keyframe ID of merge: 104
+mergeEnd time is: 1664817230331240
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 17787
+Keyframe ID of merge: 105
+mergeEnd time is: 1664817230745557
+-------check1  if(mpLastCurrentKF): 2
+This thread's loopclosing entire merging time is: 24878
+Keyframe ID of merge: 106
+mergeEnd time is: 1664817231552722
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 9412
+Keyframe ID of merge: 107
+mergeEnd time is: 1664817232005795
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 5615
+Keyframe ID of merge: 108
+mergeEnd time is: 1664817233068257
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 23790
+Keyframe ID of merge: 109
+mergeEnd time is: 1664817233726706
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 4612
+Keyframe ID of merge: 110
+mergeEnd time is: 1664817234071688
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 22596
+Keyframe ID of merge: 111
+mergeEnd time is: 1664817234465086
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 5162
+Keyframe ID of merge: 112
+mergeEnd time is: 1664817234767648
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 10660
+Keyframe ID of merge: 113
+mergeEnd time is: 1664817245180391
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 23925
+Keyframe ID of merge: 114
+mergeEnd time is: 1664817245603476
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 7001
+Keyframe ID of merge: 115
+mergeEnd time is: 1664817246216720
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 15257
+Keyframe ID of merge: 116
+mergeEnd time is: 1664817247726829
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 14749
+Keyframe ID of merge: 117
+mergeEnd time is: 1664817248401009
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 18199
+Keyframe ID of merge: 118
+mergeEnd time is: 1664817248790235
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 32040
+Keyframe ID of merge: 119
+mergeEnd time is: 1664817249434339
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 33706
+Keyframe ID of merge: 120
+mergeEnd time is: 1664817250190890
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 13435
+Keyframe ID of merge: 121
+mergeEnd time is: 1664817251214669
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 11982
+Keyframe ID of merge: 122
+mergeEnd time is: 1664817251724205
+-------check1  if(mpLastCurrentKF): 2
+This thread's loopclosing entire merging time is: 3477
+Keyframe ID of merge: 123
+mergeEnd time is: 1664817252286396
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 16758
+Keyframe ID of merge: 124
+mergeEnd time is: 1664817252733063
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 12686
+Keyframe ID of merge: 125
+mergeEnd time is: 1664817253194103
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 3389
+Keyframe ID of merge: 126
+mergeEnd time is: 1664817253866984
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 6552
+Keyframe ID of merge: 127
+mergeEnd time is: 1664817255249714
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 16484
+Keyframe ID of merge: 128
+mergeEnd time is: 1664817255683691
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 12609
+Keyframe ID of merge: 129
+mergeEnd time is: 1664817256089659
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 20924
+Keyframe ID of merge: 130
+mergeEnd time is: 1664817256470652
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 16404
+Keyframe ID of merge: 131
+mergeEnd time is: 1664817256733915
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 6476
+Keyframe ID of merge: 132
+mergeEnd time is: 1664817257014501
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 21841
+Keyframe ID of merge: 133
+mergeEnd time is: 1664817257361262
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 7686
+Keyframe ID of merge: 134
+mergeEnd time is: 1664817257722507
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 12354
+Keyframe ID of merge: 135
+mergeEnd time is: 1664817257978738
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 17611
+Keyframe ID of merge: 136
+mergeEnd time is: 1664817258295151
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 7283
+Keyframe ID of merge: 137
+mergeEnd time is: 1664817258582677
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 39570
+Keyframe ID of merge: 138
+mergeEnd time is: 1664817259009118
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 20421
+Keyframe ID of merge: 139
+mergeEnd time is: 1664817259325325
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 8213
+Keyframe ID of merge: 140
+mergeEnd time is: 1664817259724498
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 6274
+Keyframe ID of merge: 141
+mergeEnd time is: 1664817260042934
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 10520
+Keyframe ID of merge: 142
+mergeEnd time is: 1664817260426156
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 6016
+Keyframe ID of merge: 143
+mergeEnd time is: 1664817260816538
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 6789
+Keyframe ID of merge: 144
+mergeEnd time is: 1664817261213691
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 15026
+Keyframe ID of merge: 145
+mergeEnd time is: 1664817261615041
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 87120
+Keyframe ID of merge: 146
+mergeEnd time is: 1664817262217129
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 18163
+Keyframe ID of merge: 147
+mergeEnd time is: 1664817262901980
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 12979
+Keyframe ID of merge: 148
+mergeEnd time is: 1664817263440904
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 17194
+Keyframe ID of merge: 149
+mergeEnd time is: 1664817263956674
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 10305
+Keyframe ID of merge: 150
+mergeEnd time is: 1664817264744831
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 13948
+Keyframe ID of merge: 151
+mergeEnd time is: 1664817265252866
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 9074
+Keyframe ID of merge: 152
+mergeEnd time is: 1664817265766732
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 33393
+Keyframe ID of merge: 153
+mergeEnd time is: 1664817266317092
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 19371
+Keyframe ID of merge: 154
+mergeEnd time is: 1664817266879362
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 13193
+Keyframe ID of merge: 155
+mergeEnd time is: 1664817267414773
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 5508
+Keyframe ID of merge: 156
+mergeEnd time is: 1664817268166698
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 14793
+Keyframe ID of merge: 157
+mergeEnd time is: 1664817268590611
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 6670
+Keyframe ID of merge: 158
+mergeEnd time is: 1664817268943407
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 23174
+Keyframe ID of merge: 159
+mergeEnd time is: 1664817269534107
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 15385
+Keyframe ID of merge: 160
+mergeEnd time is: 1664817269892817
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 11717
+Keyframe ID of merge: 161
+mergeEnd time is: 1664817270235419
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 18313
+Keyframe ID of merge: 162
+mergeEnd time is: 1664817270743300
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 11868
+Keyframe ID of merge: 163
+mergeEnd time is: 1664817271134384
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 54736
+Keyframe ID of merge: 164
+mergeEnd time is: 1664817271494033
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 10374
+Keyframe ID of merge: 165
+mergeEnd time is: 1664817271747806
+-------check1  if(mpLastCurrentKF): 2
+This thread's loopclosing entire merging time is: 10893
+Keyframe ID of merge: 166
+mergeEnd time is: 1664817272001573
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 11392
+Keyframe ID of merge: 167
+mergeEnd time is: 1664817272278806
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 10397
+Keyframe ID of merge: 168
+mergeEnd time is: 1664817272507599
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 11532
+Keyframe ID of merge: 169
+mergeEnd time is: 1664817272728382
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 28260
+Keyframe ID of merge: 170
+mergeEnd time is: 1664817272987112
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 19540
+Keyframe ID of merge: 171
+mergeEnd time is: 1664817273346628
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 23661
+Keyframe ID of merge: 172
+mergeEnd time is: 1664817273725951
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 10723
+Keyframe ID of merge: 173
+mergeEnd time is: 1664817274035545
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 13068
+Keyframe ID of merge: 174
+mergeEnd time is: 1664817274291970
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 48027
+Keyframe ID of merge: 175
+mergeEnd time is: 1664817274697606
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 27160
+Keyframe ID of merge: 176
+mergeEnd time is: 1664817274949159
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 7227
+Keyframe ID of merge: 177
+mergeEnd time is: 1664817275240663
+-------check1  if(mpLastCurrentKF): 1
+This thread's loopclosing entire merging time is: 19492
+Keyframe ID of merge: 178
+mergeEnd time is: 1664817275555872
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 18587
+Keyframe ID of merge: 179
+mergeEnd time is: 1664817275792375
+-------check1  if(mpLastCurrentKF): 0
+This thread's loopclosing entire merging time is: 21106
+Keyframe ID of merge: 180
+mergeEnd time is: 1664817276080705
+Check finish done, total time is: 5.7777e+07

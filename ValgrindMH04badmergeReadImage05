@@ -1,0 +1,1235 @@
+num_seq = 2
+Loading images for sequence 0...LOADED!
+
+-------
+
+ORB-SLAM3 Copyright (C) 2017-2020 Carlos Campos, Richard Elvira, Juan J. Gómez, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+ORB-SLAM2 Copyright (C) 2014-2016 Raúl Mur-Artal, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions. See LICENSE.txt.
+
+Input sensor was set to: Monocular
+In if else strLoadingFile.empty()
+
+Loading ORB Vocabulary. This could take a while...
+Vocabulary loaded!
+
+  *****KeyFrameDatabase construction  *******
+Starting to read the save binary file
+loadAtlas, filename: ./MH04-badmerge.osa
+after null construction 
+Atlas save OK1
+Map OK1 GetKeyFrameSize() map size is: 0
+Map load 1 0
+Map load 2 0
+Map load 3 0
+Map load 4 270
+Map load 5 270
+Map load 6 270
+Map load 7 270
+Map load 8 270
+Map load 9 270
+Map OK2
+Map OK1 GetKeyFrameSize() map size is: 0
+Map load 1 0
+Map load 2 0
+Map load 3 0
+Map load 4 0
+Map load 5 0
+Map load 6 0
+Map load 7 0
+Map load 8 0
+Map load 9 0
+Map OK2
+Map OK1 GetKeyFrameSize() map size is: 0
+Map load 1 0
+Map load 2 0
+Map load 3 0
+Map load 4 0
+Map load 5 0
+Map load 6 0
+Map load 7 0
+Map load 8 0
+Map load 9 0
+Map OK2
+Atlas save OK2, mvpBackupMaps size: 3
+mvpCameras size: 0
+mvpCameras size is zero
+we are close to find the error atlas.h 1
+GeometricCamera OK1
+GeometricCamera OK4
+GeometricCamera OK1
+GeometricCamera OK4
+we are close to find the error atlas.h 1 
+Atlas save OK3
+-----------------is loading;---------------
+Yunshu -- atlas is loading 1
+Yunshu -- atlas is loading 2
+Yunshu -- atlas is loading for loop
+Yunshu -- atlas is loading for loop
+loading mvpCameras size: 4
+elapsed time in creating .bin file: 9190
+now fix keyframe database
+End to load the save binary file
+atlas is done loading. need postload
+Map id:1
+Number of KF: 270
+Number of MP: 12824
+MP without KF reference 18446744073709551615; Num obs: 6
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+This is a bad pMPi
+End to rebuild MapPoint references first
+ mspKeyFrames.size()270
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+Map::PostLoad mpKFlowerID = pKFi;
+Map::PostLoad mpKFinitial = pKFi;
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+mspKeyFrames.size()270
+Map This is a good pKFi
+  *****KeyFrameDatabase add  *******
+Checking Xukan's add 
+End to rebuild KeyFrame references
+Map id:2
+Number of KF: 0
+Number of MP: 0
+End to rebuild MapPoint references first
+ mspKeyFrames.size()0
+End to rebuild KeyFrame references
+Map id:5
+Number of KF: 0
+Number of MP: 0
+End to rebuild MapPoint references first
+ mspKeyFrames.size()0
+End to rebuild KeyFrame references
+Number KF:270; number MP:12824
+Creation of new map with id: 346
+Creation of new map with last KF id: 0
+elapsed time in loading .bin file: 1645908702968
+first load atlas map size: 4
+------press enter to continue------
+Seq. Name: 
+
+Camera Parameters: 
+- Camera: Pinhole
+- fx: 458.65399169921875
+- fy: 457.29598999023438
+- cx: 367.21499633789062
+- cy: 248.375
+- k1: -0.28340810537338257
+- k2: 0.073959067463874817
+- p1: 0.00019359000725671649
+- p2: 1.7618711353861727e-05
+- fps: 30
+- color order: RGB (ignored if grayscale)
+
+ORB Extractor Parameters: 
+- Number of Features: 1000
+- Scale Levels: 8
+- Scale Factor: 1.2000000476837158
+- Initial Fast Threshold: 20
+- Minimum Fast Threshold: 7
+ni:  0 ******************* 
+Here3:   ******************* 
+Here4: ******************* 
+Here2:   ******************* filename is: 
+in System::TrackMonocular end
+ni:  1 ******************* 
+Here3:   ******************* 
+Here4: ******************* 
+Here2:   ******************* filename is: 
+in System::TrackMonocular end
+ni:  2 ******************* 
+Here3:   ******************* 
+Here4: ******************* 
+Here2:   ******************* filename is: 
+in System::TrackMonocular end
+ni:  3 ******************* 
+Here3:   ******************* 
+Here4: ******************* 
+Here2:   ******************* filename is: 
+in System::TrackMonocular end
+ni:  4 ******************* 
+Here3:   ******************* 
+Here4: ******************* 
+Here2:   ******************* filename is: 

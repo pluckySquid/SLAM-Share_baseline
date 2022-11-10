@@ -1,0 +1,61 @@
+num_seq = 2
+Loading images for sequence 0...LOADED!
+
+-------
+
+ORB-SLAM3 Copyright (C) 2017-2020 Carlos Campos, Richard Elvira, Juan J. Gómez, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+ORB-SLAM2 Copyright (C) 2014-2016 Raúl Mur-Artal, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions. See LICENSE.txt.
+
+Input sensor was set to: Monocular
+
+Loading ORB Vocabulary. This could take a while...
+Vocabulary loaded!
+
+In if else strLoadingFile.empty()
+Starting to read the save binary file
+loadAtlas, filename: ./MH04_fakeMerge.osa
+after null construction 
+Atlas save OK1
+Map OK1 GetKeyFrameSize() map size is: 0
+Map load 1 0
+Map load 2 0
+Map load 3 0
+Map load 4 226
+Map load 5 226
+Map load 6 226
+Map load 7 226
+Map load 8 226
+Map load 9 226
+Map OK2
+Map OK1 GetKeyFrameSize() map size is: 0
+Map load 1 0
+Map load 2 0
+Map load 3 0
+Map load 4 0
+Map load 5 0
+Map load 6 0
+Map load 7 0
+Map load 8 0
+Map load 9 0
+Map OK2
+Atlas save OK2, mvpBackupMaps size: 2
+mvpCameras size: 0
+mvpCameras size is zero
+we are close to find the error atlas.h 1
+GeometricCamera OK1
+GeometricCamera OK4
+GeometricCamera OK1
+GeometricCamera OK4
+we are close to find the error atlas.h 1 
+Atlas save OK3
+-----------------is loading;---------------
+Yunshu -- atlas is loading 1
+Yunshu -- atlas is loading 2
+Yunshu -- atlas is loading for loop
+Yunshu -- atlas is loading for loop
+loading mvpCameras size: 4
+elapsed time in creating .bin file: 256
+now fix keyframe database

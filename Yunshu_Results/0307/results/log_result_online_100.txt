@@ -1,0 +1,15 @@
+absolute_translational_error.rmse 0.066475 m		1 Overlap
+absolute_translational_error.rmse 0.108609 m		1
+absolute_translational_error.rmse 0.104088 m		2
+absolute_translational_error.rmse 0.091896 m		3 
+absolute_translational_error.rmse 0.089523 m		4
+absolute_translational_error.rmse 0.096513 m		6
+absolute_translational_error.rmse 0.171551 m		7
+absolute_translational_error.rmse 0.120393 m		7
+absolute_translational_error.rmse 0.078057 m		7
+absolute_translational_error.rmse 0.089534 m		8
+absolute_translational_error.rmse 0.076639 m		8
+absolute_translational_error.rmse 0.134443 m		8
+absolute_translational_error.rmse 0.082559 m
+absolute_translational_error.rmse 0.076459 m
+absolute_translational_error.rmse 0.176933 m
